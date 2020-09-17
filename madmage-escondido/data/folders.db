@@ -1,6 +1,7 @@
 {"name":"Variant & Optional Rules","type":"JournalEntry","sort":4400000,"flags":{},"parent":null,"_id":"BxmoRN7yMxjQsAO0"}
 {"_id":"D4Uh5Q5q2IILmYOs","name":"Summons","type":"Actor","sort":3000000,"flags":{},"parent":"wpYw9WglSiSnzMXg","color":""}
 {"name":"Skullport Upper","type":"JournalEntry","sort":4700000,"flags":{},"parent":"ytdpKEqVfEiUweaB","_id":"DDyrl4Xv2N0uDN1I"}
+{"_id":"KmWy6YmNHmtmpOZu","name":"Sargauth","type":"JournalEntry","sort":4900000,"flags":{},"parent":"ytdpKEqVfEiUweaB","color":""}
 {"_id":"M2FiNjZlNjRhOTlk","name":"Level 8: Slitherswamp","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":1000000}
 {"_id":"MDU0YWU4MzFmMTE1","name":"Secrets Deck Handouts","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":3900000}
 {"_id":"MGJlY2YzNDk1M2Zm","name":"Level 2: Arcane Chambers","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":400000}
@@ -25,11 +26,12 @@
 {"_id":"ODMyMjRkYmI3NGRj","name":"Decks","flags":{},"type":"RollTable","color":"","parent":null,"sort":4200000}
 {"_id":"OTMxYWJkNGFlZjAz","name":"Level 15: Obstacle Course","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":1700000}
 {"_id":"OTQ5NjMyMWEyNDRi","name":"Named NPCs","flags":{},"type":"JournalEntry","color":"","parent":"NWI4ZGNiMDg1ZDdm","sort":3000000}
+{"_id":"P4QwlAauAHdAgjfW","name":"Twisted Caverns","type":"JournalEntry","sort":5100000,"flags":{},"parent":"ytdpKEqVfEiUweaB","color":""}
 {"name":"Scene Notes","type":"JournalEntry","sort":4100000,"flags":{},"parent":null,"_id":"PcxysbWCxMCHKEgn"}
 {"name":"Player Notes","type":"JournalEntry","sort":4300000,"flags":{},"parent":null,"color":"","_id":"QqiLFziZrLtjZFs7"}
 {"name":"Quests","type":"JournalEntry","sort":4200000,"flags":{},"parent":null,"color":"","_id":"RYCwVyUVqhXIo74O"}
 {"name":"Xanathar's Lair","type":"JournalEntry","sort":4800000,"flags":{},"parent":"ytdpKEqVfEiUweaB","_id":"TQ4yXsrcdt8i07xd"}
-{"name":"Creatures","type":"Actor","sort":3200000,"flags":{},"parent":null,"_id":"UCZTjJY2r3icHyIz"}
+{"_id":"UCZTjJY2r3icHyIz","name":"Creatures","type":"Actor","sort":300000,"flags":{},"parent":null}
 {"name":"Skullport: Skull Island","type":"JournalEntry","sort":5000000,"flags":{},"parent":"ytdpKEqVfEiUweaB","_id":"V15RiKtkeDNiiUGu"}
 {"_id":"Y2FjMmQ1NTRiMzZl","name":"Creatures & Monsters","flags":{},"type":"JournalEntry","color":"","parent":"NWI4ZGNiMDg1ZDdm","sort":3100000}
 {"_id":"Y2UyZTRiYmIzZmQ1","name":"Rollable Tables","flags":{},"type":"RollTable","color":"","parent":null,"sort":4100000}
@@ -44,10 +46,10 @@
 {"_id":"YmRjNzA0ZGQ5MzJj","name":"Magic Items","flags":{},"type":"Item","color":"","parent":null,"sort":3200000}
 {"_id":"YzExMDNmZGUyZTRl","name":"Level 16: Crystal Labyrinth","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":1800000}
 {"_id":"YzViNWE5Mzc0MTQ4","name":"Level 13: Trobriand's Graveyard","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":1500000}
-{"_id":"YzY3ZWM1MTI2OGFl","name":"Named NPCs","flags":{},"type":"Actor","color":"","parent":null,"sort":2700000}
+{"_id":"YzY3ZWM1MTI2OGFl","name":"Named NPCs","type":"Actor","sort":100000,"flags":{},"parent":null,"color":""}
 {"_id":"ZDVkNGI3NGVkMTk0","name":"Magic Items","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":3200000}
 {"_id":"ZGE2NTYyODVhZDVi","name":"START HERE","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":100000}
-{"_id":"ZGQ0ZDJlMTI5Njlm","name":"Creatures & Monsters","flags":{},"type":"Actor","color":"","parent":null,"sort":2800000}
+{"_id":"ZGQ0ZDJlMTI5Njlm","name":"Creatures & Monsters","type":"Actor","sort":200000,"flags":{},"parent":null,"color":""}
 {"_id":"ZTAwZjhmZTU5ZGU5","name":"Supplemental Material","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":3500000}
 {"_id":"ZTAxOTk4YTI1ZTYx","name":"Abilities & Feats (NPC)","flags":{},"type":"Item","color":"","parent":null,"sort":100000}
 {"_id":"ZTMxYzJkY2IxNTk3","name":"Level 21: Terminus Level","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":2300000}
@@ -63,17 +65,6 @@
 {"name":"Skullport Lower & Middle","type":"JournalEntry","sort":4600000,"flags":{},"parent":"ytdpKEqVfEiUweaB","_id":"jsOHrFTAyfFhCY1E"}
 {"_id":"lAPs48P8M6YHPIZr","name":"Skullport Notes","type":"JournalEntry","sort":5100000,"flags":{},"parent":"QqiLFziZrLtjZFs7","color":""}
 {"_id":"t5Nw3m680PrwUIFQ","name":"Druid Forms","type":"Actor","sort":3100000,"flags":{},"parent":"wpYw9WglSiSnzMXg","color":""}
-{"name":"Players","type":"Actor","sort":2900000,"flags":{},"parent":null,"color":"","_id":"wpYw9WglSiSnzMXg"}
+{"_id":"wpYw9WglSiSnzMXg","name":"Players","type":"Actor","sort":400000,"flags":{},"parent":null,"color":""}
 {"name":"Adventures","type":"JournalEntry","sort":4900000,"flags":{},"parent":null,"_id":"xU2zPB5VIEAHK3ql"}
 {"name":"Teleport Points","type":"JournalEntry","sort":4500000,"flags":{},"parent":null,"_id":"ytdpKEqVfEiUweaB"}
-{"name":"Sargauth","type":"JournalEntry","sort":5200000,"flags":{},"parent":"NWY1YmQ0ZDE4MWEy","color":"","_id":"KmWy6YmNHmtmpOZu"}
-{"_id":"KmWy6YmNHmtmpOZu","name":"Sargauth","type":"JournalEntry","sort":4450000,"flags":{},"parent":null,"color":""}
-{"_id":"KmWy6YmNHmtmpOZu","name":"Sargauth","type":"JournalEntry","sort":4900000,"flags":{},"parent":"ytdpKEqVfEiUweaB","color":""}
-{"name":"Twisted Caverns","type":"JournalEntry","sort":5200000,"flags":{},"parent":"YWYzYWU0MDJjMzBj","color":"","_id":"P4QwlAauAHdAgjfW"}
-{"_id":"P4QwlAauAHdAgjfW","name":"Twisted Caverns","type":"JournalEntry","sort":5100000,"flags":{},"parent":"ytdpKEqVfEiUweaB","color":""}
-{"_id":"UCZTjJY2r3icHyIz","name":"Creatures","type":"Actor","sort":3200000,"flags":{},"parent":"wpYw9WglSiSnzMXg"}
-{"_id":"UCZTjJY2r3icHyIz","name":"Creatures","type":"Actor","sort":3000000,"flags":{},"parent":null}
-{"_id":"YzY3ZWM1MTI2OGFl","name":"Named NPCs","type":"Actor","sort":100000,"flags":{},"parent":null,"color":""}
-{"_id":"ZGQ0ZDJlMTI5Njlm","name":"Creatures & Monsters","type":"Actor","sort":200000,"flags":{},"parent":null,"color":""}
-{"_id":"UCZTjJY2r3icHyIz","name":"Creatures","type":"Actor","sort":300000,"flags":{},"parent":null}
-{"_id":"wpYw9WglSiSnzMXg","name":"Players","type":"Actor","sort":400000,"flags":{},"parent":null,"color":""}
