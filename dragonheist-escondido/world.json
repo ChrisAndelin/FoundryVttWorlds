@@ -1,0 +1,33 @@
+{
+  "name": "dragonheist-escondido",
+  "title": "Waterdeep: Dragon Heist (Escondido)",
+  "description": "<p>Waterdeep with Tom &amp; Anne</p>",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.0.0",
+  "compatibleCoreVersion": "1.0.0",
+  "scripts": [
+    "templates/roll20-templates.js"
+  ],
+  "esmodules": [],
+  "styles": [
+    "templates/roll20-templates.css"
+  ],
+  "packs": [],
+  "languages": [],
+  "authors": [],
+  "keywords": [],
+  "socket": false,
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "",
+  "readme": "",
+  "bugs": "",
+  "changelog": "",
+  "id": "dragonheist-escondido",
+  "system": "dnd5e",
+  "coreVersion": "0.6.5",
+  "systemVersion": 0.96,
+  "unavailable": false,
+  "availability": 0
+}

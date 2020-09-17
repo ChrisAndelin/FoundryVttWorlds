@@ -1,0 +1,94 @@
+{"_id":"M2RjZTkxOTFlYmEx","name":"Supplemental Rules","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":2400000}
+{"_id":"M2RjZWJmOWU5ZGFi","name":"Chapter 7: Art Handouts","flags":{},"type":"JournalEntry","color":"","parent":"MjE2NTBmNTZlMTAx","sort":8000000}
+{"_id":"MDA0MzlmMzJjMTQy","name":"Chapter 4: Art Handouts","flags":{},"type":"JournalEntry","color":"","parent":"OWM5YzljMjYxMTY3","sort":3500000}
+{"_id":"MDQ5OGExZThiNTFm","name":"NPCs, Creatures, and Monsters","flags":{},"type":"JournalEntry","color":"","parent":"YTcwNDVhZTUzYzM3","sort":8100000}
+{"_id":"MDUzY2I1NGRkMjQ3","name":"Potions","flags":{},"type":"JournalEntry","color":"","parent":"ZmI0Y2RjY2RkYmM1","sort":1600000}
+{"_id":"MGExZGZlYjVhZGY1","name":"Potions of Resistance","flags":{},"type":"JournalEntry","color":"","parent":"MDUzY2I1NGRkMjQ3","sort":1700000}
+{"_id":"MGI0YzFiN2IwNzk2","name":"Named NPCs","flags":{},"type":"JournalEntry","color":"","parent":"Y2FiZTJmZTU0YzRk","sort":2200000}
+{"_id":"MGI4MmEzOWZiZTli","name":"Chapter 6: Art Handouts","flags":{},"type":"JournalEntry","color":"","parent":"N2ZiODEyN2Y0Yjdh","sort":5200000}
+{"_id":"MTMzMjg5YTVmMmM5","name":"Joining Factions","flags":{},"type":"JournalEntry","color":"","parent":"YTU0YTk4NWQ4Yjlm","sort":500000}
+{"_id":"MTYwZmVkZDgwODMw","name":"Encounter 5: Rooftop Chase","flags":{},"type":"JournalEntry","color":"","parent":"ZTBiMjhmOTY4OWQ5","sort":5800000}
+{"_id":"MWY1NTEzNGIyNjY2","name":"Encounter 2: Mistshore","flags":{},"type":"JournalEntry","color":"","parent":"OWM5YzljMjYxMTY3","sort":2700000}
+{"_id":"MjE0OTk5ZmM3ODA5","name":"Additional Art","flags":{},"type":"JournalEntry","color":"","parent":"MmEyMTg5YjQwYjFk","sort":1200000}
+{"_id":"MjE2NTBmNTZlMTAx","name":"Chapter 7: Maestro's Fall","flags":{},"type":"JournalEntry","color":"","parent":"YTcwNDVhZTUzYzM3","sort":7900000}
+{"_id":"MjRkMzdmNTY2YTE3","name":"Encounter 8: Courthouse","flags":{},"type":"JournalEntry","color":"","parent":"YzRhNmExNjVkNDMx","sort":4800000}
+{"_id":"MmEyMTg5YjQwYjFk","name":"Volo's Waterdeep Enchiridion","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":1100000}
+{"_id":"MmVmN2JhYTk4Njll","name":"NPCs, Creatures, and Monsters","flags":{},"type":"JournalEntry","color":"","parent":"NmVkNGYxOTZkNWY0","sort":5300000}
+{"_id":"MzExZDE2YmMyOTAz","name":"Chapter 8: Winter Wizardry","flags":{},"type":"JournalEntry","color":"","parent":"NTY5MTYwZmJlZGZi","sort":6500000}
+{"_id":"MzhmOGMyMGVhZjU4","name":"Encounter 10: Converted Windmill","flags":{},"type":"JournalEntry","color":"","parent":"NDFkM2Y1NGVmNzU4","sort":7700000}
+{"_id":"N2E2YjA0MDgxZDU3","name":"Encounter 8: Courthouse","flags":{},"type":"JournalEntry","color":"","parent":"NDFkM2Y1NGVmNzU4","sort":7300000}
+{"_id":"N2Q2ODkwMjNhOTIx","name":"Encounter 4: Mausoleum","flags":{},"type":"JournalEntry","color":"","parent":"OWM5YzljMjYxMTY3","sort":2800000}
+{"_id":"N2ZiODEyN2Y0Yjdh","name":"Chapter 6: Hell of a Summer","flags":{},"type":"JournalEntry","color":"","parent":"NmVkNGYxOTZkNWY0","sort":5100000}
+{"_id":"NDFkM2Y1NGVmNzU4","name":"Chapter 4: Dragon Season","flags":{},"type":"JournalEntry","color":"","parent":"YTcwNDVhZTUzYzM3","sort":6900000}
+{"_id":"NDY4NGVmMWRkN2Vi","name":"Weapons (NPC)","flags":{},"type":"Item","color":"","parent":null,"sort":100000}
+{"_id":"NDgzYTQ0YzcxZTY5","name":"Encounter 10: Converted Windmill","flags":{},"type":"JournalEntry","color":"","parent":"OWM5YzljMjYxMTY3","sort":2900000}
+{"_id":"NGUwNzAzNzA4YmY2","name":"Encounter 6: Theater","flags":{},"type":"JournalEntry","color":"","parent":"ZTBiMjhmOTY4OWQ5","sort":5900000}
+{"_id":"NTFiMzc2MWY3OWIx","name":"Encounter 5: Rooftop Chase","flags":{},"type":"JournalEntry","color":"","parent":"YzRhNmExNjVkNDMx","sort":4400000}
+{"_id":"NTY5MTYwZmJlZGZi","name":"Dragon Heist: Winter Adventure","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":5400000}
+{"_id":"NTdhYjI5OGI4MzZm","name":"Named NPCs","flags":{},"type":"Actor","color":"","parent":null,"sort":8200000}
+{"_id":"NTlkZTNmZmYzNTZk","name":"Encounter 2: Mistshore","flags":{},"type":"JournalEntry","color":"","parent":"ZTBiMjhmOTY4OWQ5","sort":6100000}
+{"_id":"NWVhMGFlNjNhOWVk","name":"NPCs, Creatures, and Monsters","flags":{},"type":"JournalEntry","color":"","parent":"NTY5MTYwZmJlZGZi","sort":6700000}
+{"_id":"NjExMjdkMTQwNjVh","name":"Decks","flags":{},"type":"Item","color":"","parent":null,"sort":8800000}
+{"_id":"NjQ2NTY4MzY2Y2Fl","name":"Additional Art Handouts","flags":{},"type":"JournalEntry","color":"","parent":"Y2FiZTJmZTU0YzRk","sort":2100000}
+{"_id":"NjU3OGU2MDgyOWJm","name":"Coins of Waterdeep","flags":{},"type":"JournalEntry","color":"","parent":"MjE0OTk5ZmM3ODA5","sort":1300000}
+{"_id":"NjljOTRlOWQyNWJm","name":"Characters","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":8400000}
+{"_id":"NmFhOTllMDFkYWJl","name":"Encounter 10: Converted Windmill","flags":{},"type":"JournalEntry","color":"","parent":"YzRhNmExNjVkNDMx","sort":4300000}
+{"_id":"NmU5YzIxZWRkN2Yx","name":"Creatures & Monsters","flags":{},"type":"Actor","color":"","parent":null,"sort":8300000}
+{"_id":"NmVkNGYxOTZkNWY0","name":"Dragon Heist: Summer Adventure","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":4000000}
+{"_id":"NzhjMzJlNGQ1NmZk","name":"Archived Handouts","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":8500000}
+{"_id":"ODA2YWZiMTg2MDg1","name":"START HERE","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":100000}
+{"_id":"ODFkNWFiYzM3ZDRm","name":"Encounter 7: Old Tower","flags":{},"type":"JournalEntry","color":"","parent":"NDFkM2Y1NGVmNzU4","sort":7400000}
+{"_id":"ODMyMjRkYmI3NGRj","name":"Decks","flags":{},"type":"RollTable","color":"","parent":null,"sort":8700000}
+{"_id":"OGE5NGY4MjgyYWI2","name":"Chapter 3: Art Handouts","flags":{},"type":"JournalEntry","color":"","parent":"ZjY3ODlmOWMzZmY0","sort":800000}
+{"_id":"OGM3ZmVlYmMzN2U2","name":"Chapter 4: Art Handouts","flags":{},"type":"JournalEntry","color":"","parent":"ZTBiMjhmOTY4OWQ5","sort":6400000}
+{"_id":"OGYzMDk4NjA4YzA3","name":"Encounter 6: Theater","flags":{},"type":"JournalEntry","color":"","parent":"NDFkM2Y1NGVmNzU4","sort":7200000}
+{"_id":"OTI1YjE3MzUwNGI0","name":"Encounter 3: Street Chase","flags":{},"type":"JournalEntry","color":"","parent":"ZTBiMjhmOTY4OWQ5","sort":6000000}
+{"_id":"OWM5YzljMjYxMTY3","name":"Chapter 4: Dragon Season","flags":{},"type":"JournalEntry","color":"","parent":"YTcwN2RlZWEyOTk5","sort":2600000}
+{"_id":"OWRkNjQyMmRiNTY4","name":"Chapter 5: Spring Madness","flags":{},"type":"JournalEntry","color":"","parent":"YTcwN2RlZWEyOTk5","sort":3600000}
+{"_id":"OWUxYmQxODE3M2I0","name":"NPCs, Creatures, and Monsters","flags":{},"type":"JournalEntry","color":"","parent":"YTcwN2RlZWEyOTk5","sort":3900000}
+{"_id":"Y2EzY2I0MmFkNDVl","name":"Chapter 4: Art Handouts","flags":{},"type":"JournalEntry","color":"","parent":"ZjkyNWQxOTIzZmJl","sort":1000000}
+{"_id":"Y2FiZTJmZTU0YzRk","name":"Player Handouts","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":1900000}
+{"_id":"Y2UyZTRiYmIzZmQ1","name":"Rollable Tables","flags":{},"type":"RollTable","color":"","parent":null,"sort":8600000}
+{"_id":"Y2ZkN2M5OWRkMDU1","name":"Magic Items","flags":{},"type":"Item","color":"","parent":null,"sort":1500000}
+{"_id":"YTU0MDM3ZGQ4NzEx","name":"Encounter 10: Converted Windmill","flags":{},"type":"JournalEntry","color":"","parent":"ZTBiMjhmOTY4OWQ5","sort":5600000}
+{"_id":"YTU0YTk4NWQ4Yjlm","name":"Chapter 2: Trollskull Alley","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":400000}
+{"_id":"YTY2ZGFmZjIyZTdm","name":"Encounter 9: Cellar Complex","flags":{},"type":"JournalEntry","color":"","parent":"OWM5YzljMjYxMTY3","sort":3000000}
+{"_id":"YTY4NjExYjNlZmYz","name":"Chapter 2: Art Handouts","flags":{},"type":"JournalEntry","color":"","parent":"YTU0YTk4NWQ4Yjlm","sort":600000}
+{"_id":"YTcwN2RlZWEyOTk5","name":"Dragon Heist: Spring Adventure","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":2500000}
+{"_id":"YTcwNDVhZTUzYzM3","name":"Dragon Heist: Autumn Adventure","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":6800000}
+{"_id":"YWFmNWNmZWU2ZTk3","name":"Playing Cards","flags":{},"type":"Item","color":"","parent":"NjExMjdkMTQwNjVh","sort":8900000}
+{"_id":"YWRjNmU3NzY1M2Y3","name":"Encounter 3: Street Chase","flags":{},"type":"JournalEntry","color":"","parent":"OWM5YzljMjYxMTY3","sort":3100000}
+{"_id":"YjA2Zjc5MTVlODI4","name":"Encounter 1: Alley","flags":{},"type":"JournalEntry","color":"","parent":"ZTBiMjhmOTY4OWQ5","sort":5700000}
+{"_id":"YjEyMjY3ZTcxNjNh","name":"Encounter 5: Rooftop Chase","flags":{},"type":"JournalEntry","color":"","parent":"NDFkM2Y1NGVmNzU4","sort":7500000}
+{"_id":"YjFkNWE4ZmIzNjEy","name":"Encounter 9: Cellar Complex","flags":{},"type":"JournalEntry","color":"","parent":"YzRhNmExNjVkNDMx","sort":4700000}
+{"_id":"YjI0Yzc4YjJkOTk4","name":"Encounter 6: Theater","flags":{},"type":"JournalEntry","color":"","parent":"OWM5YzljMjYxMTY3","sort":3400000}
+{"_id":"YjMzM2U3NGNkZjA2","name":"Encounter 3: Street Chase","flags":{},"type":"JournalEntry","color":"","parent":"YzRhNmExNjVkNDMx","sort":4600000}
+{"_id":"YjUwZWEyYWY3ZGVm","name":"Roll20 Information","flags":{},"type":"JournalEntry","color":"","parent":"ODA2YWZiMTg2MDg1","sort":100000}
+{"_id":"YjcwZTNhNGQ4OTZi","name":"Encounter 9: Cellar Complex","flags":{},"type":"JournalEntry","color":"","parent":"NDFkM2Y1NGVmNzU4","sort":7100000}
+{"_id":"YjgwZGFiMGRkYTJh","name":"Encounter 4: Mausoleum","flags":{},"type":"JournalEntry","color":"","parent":"ZTBiMjhmOTY4OWQ5","sort":6300000}
+{"_id":"YmFmZTkzNGY4Zjll","name":"Chapter 1: Art Handouts","flags":{},"type":"JournalEntry","color":"","parent":"ZDRjZDViNzZjZDk5","sort":300000}
+{"_id":"YmY5MGNhZmE2Mjcz","name":"Encounter 1: Alley","flags":{},"type":"JournalEntry","color":"","parent":"OWM5YzljMjYxMTY3","sort":3300000}
+{"_id":"YzRhNmExNjVkNDMx","name":"Chapter 4: Dragon Season","flags":{},"type":"JournalEntry","color":"","parent":"NmVkNGYxOTZkNWY0","sort":4100000}
+{"_id":"YzcwMDk5M2U4OTY4","name":"Encounter 7: Old Tower","flags":{},"type":"JournalEntry","color":"","parent":"OWM5YzljMjYxMTY3","sort":3200000}
+{"_id":"ZDA2MTI4YmE1Nzk4","name":"Chapter 5: Player Handouts","flags":{},"type":"JournalEntry","color":"","parent":"OWRkNjQyMmRiNTY4","sort":3700000}
+{"_id":"ZDJjNzg2NWEyNDgw","name":"Additional Waterdeep Handouts","flags":{},"type":"JournalEntry","color":"","parent":"Y2FiZTJmZTU0YzRk","sort":2000000}
+{"_id":"ZDRjZDViNzZjZDk5","name":"Chapter 1: A Friend in Need","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":200000}
+{"_id":"ZDZmMTA1YTgzMGJj","name":"Encounter 1: Alley","flags":{},"type":"JournalEntry","color":"","parent":"NDFkM2Y1NGVmNzU4","sort":7000000}
+{"_id":"ZDliN2M5NGRlN2Y1","name":"Encounter 7: Old Tower","flags":{},"type":"JournalEntry","color":"","parent":"YzRhNmExNjVkNDMx","sort":4900000}
+{"_id":"ZGI0Mzk5Mjk2Yzhi","name":"Creatures & Monsters","flags":{},"type":"JournalEntry","color":"","parent":"Y2FiZTJmZTU0YzRk","sort":2300000}
+{"_id":"ZGRiYWNjZDA1ZDE5","name":"Encounter 4: Mausoleum","flags":{},"type":"JournalEntry","color":"","parent":"YzRhNmExNjVkNDMx","sort":4200000}
+{"_id":"ZTAxOTk4YTI1ZTYx","name":"Abilities & Feats (NPC)","flags":{},"type":"Item","color":"","parent":null,"sort":100000}
+{"_id":"ZTBiMjhmOTY4OWQ5","name":"Chapter 4: Dragon Season","flags":{},"type":"JournalEntry","color":"","parent":"NTY5MTYwZmJlZGZi","sort":5500000}
+{"_id":"ZTI1MjI4ZGZkZjhm","name":"Art Handouts","flags":{},"type":"JournalEntry","color":"","parent":"OWRkNjQyMmRiNTY4","sort":3800000}
+{"_id":"ZTRmNTA5NDYwYjk5","name":"Yawning Portal Friendly Faces","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":1400000}
+{"_id":"ZWM2YmFjOTZhZDRj","name":"Chapter 4: Art Handouts","flags":{},"type":"JournalEntry","color":"","parent":"NDFkM2Y1NGVmNzU4","sort":7800000}
+{"_id":"ZjI0YzI1ZTJlZjc4","name":"Encounter 7: Old Tower","flags":{},"type":"JournalEntry","color":"","parent":"ZTBiMjhmOTY4OWQ5","sort":6200000}
+{"_id":"ZjNhZWUwYzBhMThj","name":"Chapter 8: Art Handouts","flags":{},"type":"JournalEntry","color":"","parent":"MzExZDE2YmMyOTAz","sort":6600000}
+{"_id":"ZjVkMDM4NTA5YTU1","name":"Chapter 4: Art Handouts","flags":{},"type":"JournalEntry","color":"","parent":"YzRhNmExNjVkNDMx","sort":5000000}
+{"_id":"ZjY3ODlmOWMzZmY0","name":"Chapter 3: Fireball","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":700000}
+{"_id":"ZjhjNmYyNTdlZjIw","name":"Encounter 2: Mistshore","flags":{},"type":"JournalEntry","color":"","parent":"NDFkM2Y1NGVmNzU4","sort":7600000}
+{"_id":"ZjhmY2MzYzY0MGE3","name":"Spells (NPC)","flags":{},"type":"Item","color":"","parent":null,"sort":100000}
+{"_id":"ZjkyNWQxOTIzZmJl","name":"Chapter 4: Dragon Season","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":900000}
+{"_id":"ZmI0Y2RjY2RkYmM1","name":"Magic Items","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":1500000}
+{"_id":"ZmNhNGJhYjA3MDky","name":"Encounter 1: Alley","flags":{},"type":"JournalEntry","color":"","parent":"YzRhNmExNjVkNDMx","sort":4500000}
+{"_id":"ZmNjZDA4MjI4NzU4","name":"D&D 5e Spells (SRD)","flags":{},"type":"Item","color":"","parent":null,"sort":100000}

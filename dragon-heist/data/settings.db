@@ -1,0 +1,5 @@
+{"_id":"OGJhNjJjMzUzNGMw","key":"dnd5e.systemMigrationVersion","value":"0.86"}
+{"_id":"OTRjOTE1ZmRhMmE3","key":"permission_viewer.migrated","value":"\"1\""}
+{"_id":"ZWJlNjY5NDZlOTUy","key":"core.moduleConfiguration","value":"{\"permission_viewer\": true, \"furnace\": true, \"chat-autoloader\": true}"}
+{"_id":"enRblDLFftleJadh","key":"core.permissions","value":"{\"BROADCAST_AUDIO\":[2,3,4],\"BROADCAST_VIDEO\":[2,3,4],\"ACTOR_CREATE\":[3,4],\"DRAWING_CREATE\":[2,3,4],\"ITEM_CREATE\":[3,4],\"FILES_BROWSE\":[2,3,4],\"FILES_UPLOAD\":[3,4],\"JOURNAL_CREATE\":[2,3,4],\"MACRO_SCRIPT\":[1,2,3,4],\"MESSAGE_WHISPER\":[1,2,3,4],\"SETTINGS_MODIFY\":[3,4],\"SHOW_CURSOR\":[1,2,3,4],\"SHOW_RULER\":[1,2,3,4],\"TEMPLATE_CREATE\":[1,2,3,4],\"TOKEN_CREATE\":[3,4],\"TOKEN_CONFIGURE\":[2,3,4],\"WALL_DOORS\":[1,2,3,4]}"}
+{"key":"core.rtcWorldSettings","value":"{\"mode\":0,\"server\":{\"type\":\"FVTT\",\"url\":\"\",\"room\":\"1iohsj2lg736d15cc3rfhc3gn21fx0s4\",\"username\":\"\",\"password\":\"\"},\"turn\":{\"type\":\"server\",\"url\":\"\",\"username\":\"\",\"password\":\"\"}}","_id":"yBg7z2cARk0A1Ic9"}
