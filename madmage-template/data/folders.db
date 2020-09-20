@@ -12,6 +12,7 @@
 {"_id":"MTAxYmVmOTNlNWY5","name":"Level 1: Dungeon Level","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":300000}
 {"_id":"MjllMmZkMGFiNTkx","name":"Skullport","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":2600000}
 {"_id":"MmU1ZDNiNjI4MjE4","name":"Level 12: Maze Level","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":1400000}
+{"name":"Merchant","type":"Actor","sort":3300000,"flags":{},"parent":"OBhOJSqLcuMDXJrN","color":"","_id":"MoBYQkJIrWA6BH9j"}
 {"_id":"MzAyM2ZjMTVhN2Nl","name":"DotMM - Secrets Deck","flags":{},"type":"Item","color":"","parent":"NjExMjdkMTQwNjVh","sort":4500000}
 {"_id":"MzEwZWQwN2I5NTYw","name":"Potions","flags":{},"type":"JournalEntry","color":"","parent":"ZDVkNGI3NGVkMTk0","sort":3300000}
 {"_id":"NDNkZGIzOWM4Zjdi","name":"Level 19: Caverns of Ooze","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":2100000}
@@ -24,9 +25,10 @@
 {"_id":"NmNiZGJmMmVkZWFh","name":"Level 6: Lost Level","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":800000}
 {"_id":"NzI3YTgwOGU5MTM4","name":"Undermountain Overview","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":200000}
 {"_id":"NzhjMzJlNGQ1NmZk","name":"Archived Handouts","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":4000000}
-{"name":"Containers","type":"Actor","sort":3100000,"flags":{},"parent":null,"color":"","_id":"OBhOJSqLcuMDXJrN"}
+{"_id":"OBhOJSqLcuMDXJrN","name":"LootNpcs","type":"Actor","sort":3100000,"flags":{},"parent":null,"color":""}
 {"_id":"ODAwNDU4MjE1ODdh","name":"Roll20 Information","flags":{},"type":"JournalEntry","color":"","parent":"ZGE2NTYyODVhZDVi","sort":100000}
 {"_id":"ODMyMjRkYmI3NGRj","name":"Decks","flags":{},"type":"RollTable","color":"","parent":null,"sort":4200000}
+{"_id":"OKDnMgkHjaDafP4h","name":"Loot","type":"Actor","sort":3200000,"flags":{},"parent":"OBhOJSqLcuMDXJrN","color":""}
 {"_id":"OTMxYWJkNGFlZjAz","name":"Level 15: Obstacle Course","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":1700000}
 {"_id":"OTQ5NjMyMWEyNDRi","name":"Named NPCs","flags":{},"type":"JournalEntry","color":"","parent":"NWI4ZGNiMDg1ZDdm","sort":3000000}
 {"name":"Items","type":"Item","sort":4700000,"flags":{},"parent":null,"_id":"PZYFxQJoYyeJdzgo"}
@@ -64,3 +66,4 @@
 {"name":"Adventures","type":"JournalEntry","sort":4700000,"flags":{},"parent":null,"_id":"puPbLefrJCg0ofbM"}
 {"name":"Skullport Upper","type":"JournalEntry","sort":4500000,"flags":{},"parent":"5qyWaX930KWJXNFB","_id":"puzUJTMliEaEoSke"}
 {"name":"Players","type":"Actor","sort":2900000,"flags":{},"parent":null,"color":"","_id":"wpYw9WglSiSnzMXg"}
+{"name":"MadmageItems","type":"Item","sort":4800000,"flags":{},"parent":null,"color":"","_id":"f2Ao8zwlytPUUQ6P"}

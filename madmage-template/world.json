@@ -10,6 +10,15 @@
   "styles": [],
   "packs": [
     {
+      "label": "MyItems",
+      "entity": "Item",
+      "name": "myitems",
+      "path": "packs/myitems.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\madmage-template\\packs\\myitems.db"
+    },
+    {
       "label": "MyActors",
       "entity": "Actor",
       "name": "myactors",
