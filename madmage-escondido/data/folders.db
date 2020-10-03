@@ -68,3 +68,4 @@
 {"_id":"wpYw9WglSiSnzMXg","name":"Players","type":"Actor","sort":400000,"flags":{},"parent":null,"color":""}
 {"name":"Adventures","type":"JournalEntry","sort":4900000,"flags":{},"parent":null,"_id":"xU2zPB5VIEAHK3ql"}
 {"name":"Teleport Points","type":"JournalEntry","sort":4500000,"flags":{},"parent":null,"_id":"ytdpKEqVfEiUweaB"}
+{"name":"Arcane Chambers","type":"JournalEntry","sort":5200000,"flags":{},"parent":"MGJlY2YzNDk1M2Zm","color":"","_id":"akRCwE66LWGSNTad"}
