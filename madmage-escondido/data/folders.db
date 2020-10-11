@@ -71,3 +71,4 @@
 {"_id":"wpYw9WglSiSnzMXg","name":"Players","type":"Actor","sort":400000,"flags":{},"parent":null,"color":""}
 {"name":"Adventures","type":"JournalEntry","sort":4900000,"flags":{},"parent":null,"_id":"xU2zPB5VIEAHK3ql"}
 {"name":"Teleport Points","type":"JournalEntry","sort":4500000,"flags":{},"parent":null,"_id":"ytdpKEqVfEiUweaB"}
+{"name":"Completed","type":"JournalEntry","sort":5300000,"flags":{},"parent":"RYCwVyUVqhXIo74O","color":"","_id":"zkgZXwurGMXzeYOv"}
