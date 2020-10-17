@@ -4,3 +4,6 @@
 {"_id":"aRizEM7lCGYvXvoO","name":"Larry","flags":{},"role":2,"permissions":{},"password":"","avatar":"Theodric.jpeg","character":"hCSL9ltNdCKyHccX","color":"#28a0cc","hotbar":{}}
 {"_id":"lheTHZvyjYhbsag3","name":"Julian","flags":{},"role":1,"permissions":{},"password":"","avatar":"icons/svg/mystery-man.svg","character":"WOiLGjE4AhNu008Y","color":"#28cc6a","hotbar":{}}
 {"_id":"uj7GaHbcDB7mB3IQ","name":"Matt","flags":{},"role":2,"permissions":{},"password":"","avatar":"icons/svg/mystery-man.svg","character":"ifhHUyw3MUALLNH9","color":"#ccbf28","hotbar":{"1":"qbn1oiOeQQeXmUlB","2":"ZOur0IQgFFpVSs3m"}}
+{"_id":"ZjdmMWEyMmE2NzVk","name":"Chris","sort":0,"flags":{},"role":4,"permissions":{},"password":"xdr5cft6","color":"#7270fc","hotbar":{"9":"hHsO6pbKJJ7uIbna","10":"5i3UjkcNJlsre6YW"}}
+{"_id":"ZjdmMWEyMmE2NzVk","name":"Chris","sort":0,"flags":{},"role":4,"permissions":{},"password":"xdr5cft6","color":"#7270fc","hotbar":{"1":"QHKNJWdjRYtJd6F2","9":"hHsO6pbKJJ7uIbna","10":"5i3UjkcNJlsre6YW"}}
+{"_id":"ZjdmMWEyMmE2NzVk","name":"Chris","sort":0,"flags":{},"role":4,"permissions":{},"password":"xdr5cft6","color":"#7270fc","hotbar":{"1":"QHKNJWdjRYtJd6F2","2":"8p3VH5mKZ2RhvJZV","9":"hHsO6pbKJJ7uIbna","10":"5i3UjkcNJlsre6YW"}}

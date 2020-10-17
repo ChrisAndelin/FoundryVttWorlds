@@ -58,3 +58,7 @@
 {"name":"Helpers","type":"Actor","sort":3000000,"flags":{},"parent":"wpYw9WglSiSnzMXg","color":"","_id":"kgjQtyB2QsTxetph"}
 {"name":"Skullport Lower & Middle","type":"JournalEntry","sort":4300000,"flags":{},"parent":"JntbTyCs2dlYTt8d","_id":"kyk4jDdxBgGq8mt1"}
 {"name":"Players","type":"Actor","sort":2900000,"flags":{},"parent":null,"color":"","_id":"wpYw9WglSiSnzMXg"}
+{"name":"LootNPCs","type":"Actor","sort":3100000,"flags":{},"parent":null,"color":"","_id":"UDRKMCADJHRzxzA8"}
+{"name":"4-TwistedCaverns","type":"Actor","sort":3200000,"flags":{},"parent":"UDRKMCADJHRzxzA8","color":"","_id":"5pPfzSueWEY5OkO3"}
+{"name":"Creatures","type":"Actor","sort":3300000,"flags":{},"parent":null,"_id":"51JB1aI6lZ9S680y"}
+{"$$deleted":true,"_id":"51JB1aI6lZ9S680y"}
