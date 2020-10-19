@@ -100,3 +100,6 @@
 {"_id":"NDg2ZWUzNmEyOWYx","name":"Level 22: Shadowdusk Hold","type":"JournalEntry","sort":1833204,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
 {"name":"Lost Level","type":"JournalEntry","sort":4900000,"flags":{},"parent":"NmNiZGJmMmVkZWFh","color":"","_id":"vSeGv0nRAmUr5kEb"}
 {"_id":"vSeGv0nRAmUr5kEb","name":"Teleports","type":"JournalEntry","sort":4900000,"flags":{},"parent":"NmNiZGJmMmVkZWFh","color":""}
+{"name":"6-LostLevel","type":"Actor","sort":3600000,"flags":{},"parent":null,"color":"","_id":"8rp5TakyWykV6AQ3"}
+{"_id":"8rp5TakyWykV6AQ3","name":"6-LostLevel","type":"Actor","sort":3600000,"flags":{},"parent":"OBhOJSqLcuMDXJrN","color":""}
+{"_id":"ISlOKD2PKTZNEuq5","name":"4-TwistedCaverns","type":"Actor","sort":3350000,"flags":{},"parent":"OBhOJSqLcuMDXJrN","color":""}
