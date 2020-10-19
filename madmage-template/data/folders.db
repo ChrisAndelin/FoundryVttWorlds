@@ -67,3 +67,36 @@
 {"_id":"puPbLefrJCg0ofbM","name":"Dragon Heist","type":"JournalEntry","sort":4700000,"flags":{},"parent":null,"color":"#0080ff"}
 {"name":"Skullport Upper","type":"JournalEntry","sort":4500000,"flags":{},"parent":"5qyWaX930KWJXNFB","_id":"puzUJTMliEaEoSke"}
 {"name":"Players","type":"Actor","sort":2900000,"flags":{},"parent":null,"color":"","_id":"wpYw9WglSiSnzMXg"}
+{"name":"Skullport","type":"Scene","sort":null,"flags":{},"parent":null,"color":"","_id":"y3SRdR8qDnT81ASH"}
+{"name":"Levels","type":"JournalEntry","sort":4900000,"flags":{},"parent":null,"color":"","_id":"BLDEJq7aQBXyxS0U"}
+{"_id":"BLDEJq7aQBXyxS0U","name":"Levels","type":"JournalEntry","sort":250000,"flags":{},"parent":null,"color":""}
+{"_id":"MTAxYmVmOTNlNWY5","name":"Level 1: Dungeon Level","type":"JournalEntry","sort":225000,"flags":{},"parent":null,"color":""}
+{"_id":"MTAxYmVmOTNlNWY5","name":"Level 1: Dungeon Level","type":"JournalEntry","sort":100000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"MGJlY2YzNDk1M2Zm","name":"Level 2: Arcane Chambers","type":"JournalEntry","sort":200000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"NWY1YmQ0ZDE4MWEy","name":"Level 3: Sargauth Level","type":"JournalEntry","sort":300000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"YWYzYWU0MDJjMzBj","name":"Level 4: Twisted Caverns","type":"JournalEntry","sort":400000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"MGRlODMwZDIwNTc4","name":"Level 5: Wyllowwood","type":"JournalEntry","sort":500000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"NmNiZGJmMmVkZWFh","name":"Level 6: Lost Level","type":"JournalEntry","sort":600000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"ZWE1ODJjMzhjZjAz","name":"Level 7: Maddgoth's Castle","type":"JournalEntry","sort":700000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"M2FiNjZlNjRhOTlk","name":"Level 8: Slitherswamp","type":"JournalEntry","sort":800000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"YTg4Njg3YWYyODU2","name":"Level 9: Dweomercore","type":"JournalEntry","sort":900000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"YWMzOWYyYzI3ZTNm","name":"Level 10: Muiral's Gauntlet","type":"JournalEntry","sort":1000000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"YTM5NjQ4Y2M0YWUx","name":"Level 11: Troglodyte Warrens","type":"JournalEntry","sort":1100000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"MmU1ZDNiNjI4MjE4","name":"Level 12: Maze Level","type":"JournalEntry","sort":1200000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"YzViNWE5Mzc0MTQ4","name":"Level 13: Trobriand's Graveyard","type":"JournalEntry","sort":1300000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"ZWYyY2E1ZWE2NDdk","name":"Level 14: Arcturiadoom","type":"JournalEntry","sort":1400000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"OTMxYWJkNGFlZjAz","name":"Level 15: Obstacle Course","type":"JournalEntry","sort":1500000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"YzExMDNmZGUyZTRl","name":"Level 16: Crystal Labyrinth","type":"JournalEntry","sort":1600000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"ZWRjOGExMjRmOGJk","name":"Level 17: Seadeeps","type":"JournalEntry","sort":1700000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"ZjM3N2M4M2M1MjNh","name":"Level 18: Vanrakdoom","type":"JournalEntry","sort":1800000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"NDNkZGIzOWM4Zjdi","name":"Level 19: Caverns of Ooze","type":"JournalEntry","sort":1900000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"MGMxODBkZDdhNjUx","name":"Level 20: Runestone Caverns","type":"JournalEntry","sort":1850000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"NDNkZGIzOWM4Zjdi","name":"Level 19: Caverns of Ooze","type":"JournalEntry","sort":1825000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"ZTMxYzJkY2IxNTk3","name":"Level 21: Terminus Level","type":"JournalEntry","sort":1837500,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"MGMxODBkZDdhNjUx","name":"Level 20: Runestone Caverns","type":"JournalEntry","sort":1831250,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"NDg2ZWUzNmEyOWYx","name":"Level 22: Shadowdusk Hold","type":"JournalEntry","sort":1834375,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"ZTMxYzJkY2IxNTk3","name":"Level 21: Terminus Level","type":"JournalEntry","sort":1832813,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"ZTkwMTExY2JlZGFk","name":"Level 23: Mad Wizard's Lair","type":"JournalEntry","sort":1833594,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"NDg2ZWUzNmEyOWYx","name":"Level 22: Shadowdusk Hold","type":"JournalEntry","sort":1833204,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"name":"Lost Level","type":"JournalEntry","sort":4900000,"flags":{},"parent":"NmNiZGJmMmVkZWFh","color":"","_id":"vSeGv0nRAmUr5kEb"}
+{"_id":"vSeGv0nRAmUr5kEb","name":"Teleports","type":"JournalEntry","sort":4900000,"flags":{},"parent":"NmNiZGJmMmVkZWFh","color":""}
