@@ -71,5 +71,3 @@
 {"_id":"vSeGv0nRAmUr5kEb","name":"Teleports","type":"JournalEntry","sort":4900000,"flags":{},"parent":"NmNiZGJmMmVkZWFh","color":""}
 {"name":"Players","type":"Actor","sort":2900000,"flags":{},"parent":null,"color":"","_id":"wpYw9WglSiSnzMXg"}
 {"name":"Skullport","type":"Scene","sort":null,"flags":{},"parent":null,"color":"","_id":"y3SRdR8qDnT81ASH"}
-{"name":"Jade Shard","type":"Item","sort":4900000,"flags":{},"parent":"f2Ao8zwlytPUUQ6P","color":"","_id":"6WKz0T1DYJjxJnaN"}
-{"$$deleted":true,"_id":"6WKz0T1DYJjxJnaN"}

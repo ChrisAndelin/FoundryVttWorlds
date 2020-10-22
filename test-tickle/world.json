@@ -8,7 +8,53 @@
   "scripts": [],
   "esmodules": [],
   "styles": [],
-  "packs": [],
+  "packs": [
+    {
+      "entity": "Item",
+      "label": "My DDB Spells",
+      "name": "test-tickle-ddb-spells",
+      "package": "world",
+      "path": "packs/test-tickle-ddb-spells.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\test-tickle\\packs\\test-tickle-ddb-spells.db"
+    },
+    {
+      "entity": "Item",
+      "label": "My DDB Items",
+      "name": "test-tickle-ddb-items",
+      "package": "world",
+      "path": "packs/test-tickle-ddb-items.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\test-tickle\\packs\\test-tickle-ddb-items.db"
+    },
+    {
+      "entity": "Item",
+      "label": "My DDB Features",
+      "name": "test-tickle-ddb-features",
+      "package": "world",
+      "path": "packs/test-tickle-ddb-features.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\test-tickle\\packs\\test-tickle-ddb-features.db"
+    },
+    {
+      "entity": "Actor",
+      "label": "My DDB Monsters",
+      "name": "test-tickle-ddb-monsters",
+      "package": "world",
+      "path": "packs/test-tickle-ddb-monsters.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\test-tickle\\packs\\test-tickle-ddb-monsters.db"
+    },
+    {
+      "entity": "Item",
+      "label": "My DDB Monster Features",
+      "name": "test-tickle-ddb-monster-features",
+      "package": "world",
+      "path": "packs/test-tickle-ddb-monster-features.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\test-tickle\\packs\\test-tickle-ddb-monster-features.db"
+    }
+  ],
   "languages": [],
   "authors": [],
   "keywords": [],
@@ -22,9 +68,10 @@
   "changelog": "",
   "background": "",
   "system": "dnd5e",
-  "coreVersion": "0.6.4",
-  "systemVersion": 0.93,
+  "coreVersion": "0.7.5",
+  "systemVersion": 0.98,
   "nextSession": "",
-  "availability": 1,
-  "unavailable": false
+  "availability": 0,
+  "unavailable": false,
+  "id": "test-tickle"
 }

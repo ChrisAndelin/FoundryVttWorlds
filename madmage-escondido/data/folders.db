@@ -1,6 +1,4 @@
-{"name":"Items","type":"Item","sort":4700000,"flags":{"importid":"PZYFxQJoYyeJdzgo"},"parent":"38gvq7q4r3n4BzpB","_id":"01ThrBg9YN2rM5MT"}
 {"name":"Willowwood","type":"JournalEntry","sort":5400000,"flags":{},"parent":null,"color":"#FF0000","_id":"1H64iy7nCRF6X7X3"}
-{"name":"Willowwood","type":"Item","sort":4700000,"flags":{},"parent":null,"color":"#FF0000","_id":"38gvq7q4r3n4BzpB"}
 {"name":"Skullport: Skull Island","type":"JournalEntry","sort":4600000,"flags":{"importid":"FlYpdDfqZGhDL6WB"},"parent":"MCfbeF4OTCtsOW0Z","_id":"4rc9cFiwM3gNj80H"}
 {"name":"Skullport Upper","type":"JournalEntry","sort":4500000,"flags":{"importid":"puzUJTMliEaEoSke"},"parent":"MCfbeF4OTCtsOW0Z","_id":"Ala5yawQmxysqIbw"}
 {"name":"Willowwood","type":"Actor","sort":3400000,"flags":{},"parent":"XRVDmjCN9f4qED8u","color":"","_id":"BN3f1EHoH2iG8fmT"}
@@ -10,7 +8,6 @@
 {"name":"Skullport Upper","type":"JournalEntry","sort":4700000,"flags":{},"parent":"ytdpKEqVfEiUweaB","_id":"DDyrl4Xv2N0uDN1I"}
 {"name":"Xanathar's Lair","type":"JournalEntry","sort":4300000,"flags":{"importid":"1NHuSGRMpGteAHcq"},"parent":"MCfbeF4OTCtsOW0Z","_id":"IZ42Jl6ZNYk7mITM"}
 {"name":"Willowwood","type":"RollTable","sort":4300000,"flags":{},"parent":null,"color":"#FF0000","_id":"Ii8eZFwKCByQcxKO"}
-{"name":"MadmageItems","type":"Item","sort":4800000,"flags":{"importid":"f2Ao8zwlytPUUQ6P"},"parent":"38gvq7q4r3n4BzpB","color":"","_id":"IwRTQGnWuLwHNTSZ"}
 {"_id":"KmWy6YmNHmtmpOZu","name":"Sargauth","type":"JournalEntry","sort":4900000,"flags":{},"parent":"ytdpKEqVfEiUweaB","color":""}
 {"_id":"M2FiNjZlNjRhOTlk","name":"Level 8: Slitherswamp","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":1000000}
 {"name":"Teleport Points","type":"JournalEntry","sort":4200000,"flags":{"importid":"5qyWaX930KWJXNFB"},"parent":"1H64iy7nCRF6X7X3","_id":"MCfbeF4OTCtsOW0Z"}
@@ -88,6 +85,3 @@
 {"name":"Adventures","type":"JournalEntry","sort":4900000,"flags":{},"parent":null,"_id":"xU2zPB5VIEAHK3ql"}
 {"name":"Teleport Points","type":"JournalEntry","sort":4500000,"flags":{},"parent":null,"_id":"ytdpKEqVfEiUweaB"}
 {"name":"Completed","type":"JournalEntry","sort":5300000,"flags":{},"parent":"RYCwVyUVqhXIo74O","color":"","_id":"zkgZXwurGMXzeYOv"}
-{"$$deleted":true,"_id":"38gvq7q4r3n4BzpB"}
-{"$$deleted":true,"_id":"01ThrBg9YN2rM5MT"}
-{"$$deleted":true,"_id":"IwRTQGnWuLwHNTSZ"}
