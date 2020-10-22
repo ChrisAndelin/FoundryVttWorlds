@@ -1,3 +1,4 @@
+{"name":"4-TwistedCaverns","type":"Actor","sort":3200000,"flags":{},"parent":"UDRKMCADJHRzxzA8","color":"","_id":"5pPfzSueWEY5OkO3"}
 {"name":"Skullport: Skull Island","type":"JournalEntry","sort":4400000,"flags":{},"parent":"JntbTyCs2dlYTt8d","_id":"8lU6K75q9XaJsh6Y"}
 {"name":"Teleport Points","type":"JournalEntry","sort":4200000,"flags":{},"parent":null,"_id":"JntbTyCs2dlYTt8d"}
 {"name":"Skullport Upper","type":"JournalEntry","sort":4600000,"flags":{},"parent":"JntbTyCs2dlYTt8d","_id":"LiqwT6yja3a7duBB"}
@@ -26,6 +27,7 @@
 {"_id":"OTMxYWJkNGFlZjAz","name":"Level 15: Obstacle Course","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":1700000}
 {"_id":"OTQ5NjMyMWEyNDRi","name":"Named NPCs","flags":{},"type":"JournalEntry","color":"","parent":"NWI4ZGNiMDg1ZDdm","sort":3000000}
 {"name":"Scene Notes","type":"JournalEntry","sort":4100000,"flags":{},"parent":null,"_id":"PcxysbWCxMCHKEgn"}
+{"name":"LootNPCs","type":"Actor","sort":3100000,"flags":{},"parent":null,"color":"","_id":"UDRKMCADJHRzxzA8"}
 {"_id":"Y2FjMmQ1NTRiMzZl","name":"Creatures & Monsters","flags":{},"type":"JournalEntry","color":"","parent":"NWI4ZGNiMDg1ZDdm","sort":3100000}
 {"_id":"Y2UyZTRiYmIzZmQ1","name":"Rollable Tables","flags":{},"type":"RollTable","color":"","parent":null,"sort":4100000}
 {"_id":"YTM5NjQ4Y2M0YWUx","name":"Level 11: Troglodyte Warrens","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":1300000}
@@ -58,7 +60,3 @@
 {"name":"Helpers","type":"Actor","sort":3000000,"flags":{},"parent":"wpYw9WglSiSnzMXg","color":"","_id":"kgjQtyB2QsTxetph"}
 {"name":"Skullport Lower & Middle","type":"JournalEntry","sort":4300000,"flags":{},"parent":"JntbTyCs2dlYTt8d","_id":"kyk4jDdxBgGq8mt1"}
 {"name":"Players","type":"Actor","sort":2900000,"flags":{},"parent":null,"color":"","_id":"wpYw9WglSiSnzMXg"}
-{"name":"LootNPCs","type":"Actor","sort":3100000,"flags":{},"parent":null,"color":"","_id":"UDRKMCADJHRzxzA8"}
-{"name":"4-TwistedCaverns","type":"Actor","sort":3200000,"flags":{},"parent":"UDRKMCADJHRzxzA8","color":"","_id":"5pPfzSueWEY5OkO3"}
-{"name":"Creatures","type":"Actor","sort":3300000,"flags":{},"parent":null,"_id":"51JB1aI6lZ9S680y"}
-{"$$deleted":true,"_id":"51JB1aI6lZ9S680y"}
