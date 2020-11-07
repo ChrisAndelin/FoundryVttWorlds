@@ -1,15 +1,11 @@
-{"name":"Xanathar's Lair","type":"JournalEntry","sort":4300000,"flags":{},"parent":"5qyWaX930KWJXNFB","_id":"1NHuSGRMpGteAHcq"}
-{"_id":"46kzEKFFRSE2FUt1","name":"Wyllowwood","type":"JournalEntry","sort":4700000,"flags":{},"parent":"5qyWaX930KWJXNFB","color":""}
-{"name":"Teleport Points","type":"JournalEntry","sort":4200000,"flags":{},"parent":null,"_id":"5qyWaX930KWJXNFB"}
+{"_id":"5KDLerdIxtDr6uzc","name":"Archgates","type":"JournalEntry","sort":100000,"flags":{},"parent":"rRXoqZguPRSmVU0W","sorting":"a","color":""}
 {"_id":"8rp5TakyWykV6AQ3","name":"6-LostLevel","type":"Actor","sort":3600000,"flags":{},"parent":"OBhOJSqLcuMDXJrN","color":""}
 {"name":"Tables","type":"RollTable","sort":4300000,"flags":{},"parent":null,"_id":"9rSqcXk9k5oY7pk7"}
-{"_id":"BLDEJq7aQBXyxS0U","name":"Levels","type":"JournalEntry","sort":250000,"flags":{},"parent":null,"color":""}
-{"name":"Skullport: Skull Island","type":"JournalEntry","sort":4600000,"flags":{},"parent":"5qyWaX930KWJXNFB","_id":"FlYpdDfqZGhDL6WB"}
-{"name":"Skullport Lower & Middle","type":"JournalEntry","sort":4400000,"flags":{},"parent":"5qyWaX930KWJXNFB","_id":"GqEzcyrdA7EGjlsy"}
+{"_id":"BLDEJq7aQBXyxS0U","name":"Levels","type":"JournalEntry","sort":250000,"flags":{},"parent":null,"sorting":"m","color":""}
 {"_id":"ISlOKD2PKTZNEuq5","name":"4-TwistedCaverns","type":"Actor","sort":3350000,"flags":{},"parent":"OBhOJSqLcuMDXJrN","color":""}
 {"_id":"M2FiNjZlNjRhOTlk","name":"Level 8: Slitherswamp","type":"JournalEntry","sort":800000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
 {"_id":"MDU0YWU4MzFmMTE1","name":"Secrets Deck Handouts","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":3900000}
-{"_id":"MGJlY2YzNDk1M2Zm","name":"Level 2: Arcane Chambers","type":"JournalEntry","sort":200000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"MGJlY2YzNDk1M2Zm","name":"Level 2: Arcane Chambers","type":"JournalEntry","sort":200000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","sorting":"a","color":""}
 {"_id":"MGMxODBkZDdhNjUx","name":"Level 20: Runestone Caverns","type":"JournalEntry","sort":1831250,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
 {"_id":"MGRlODMwZDIwNTc4","name":"Level 5: Wyllowwood","type":"JournalEntry","sort":500000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
 {"_id":"MTAxYmVmOTNlNWY5","name":"Level 1: Dungeon Level","type":"JournalEntry","sort":100000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
@@ -67,7 +63,7 @@
 {"name":"MadmageItems","type":"Item","sort":4800000,"flags":{},"parent":null,"color":"","_id":"f2Ao8zwlytPUUQ6P"}
 {"name":"5-Wyllowood","type":"Actor","sort":3400000,"flags":{},"parent":"OBhOJSqLcuMDXJrN","color":"","_id":"oRsMUdkHdJX141iv"}
 {"_id":"puPbLefrJCg0ofbM","name":"Dragon Heist","type":"JournalEntry","sort":4700000,"flags":{},"parent":null,"color":"#0080ff"}
-{"name":"Skullport Upper","type":"JournalEntry","sort":4500000,"flags":{},"parent":"5qyWaX930KWJXNFB","_id":"puzUJTMliEaEoSke"}
+{"name":"Teleport","type":"JournalEntry","sort":5100000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"rRXoqZguPRSmVU0W"}
 {"_id":"vSeGv0nRAmUr5kEb","name":"Teleports","type":"JournalEntry","sort":4900000,"flags":{},"parent":"NmNiZGJmMmVkZWFh","color":""}
 {"name":"Players","type":"Actor","sort":2900000,"flags":{},"parent":null,"color":"","_id":"wpYw9WglSiSnzMXg"}
 {"name":"Skullport","type":"Scene","sort":null,"flags":{},"parent":null,"color":"","_id":"y3SRdR8qDnT81ASH"}
