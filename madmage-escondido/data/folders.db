@@ -2,6 +2,7 @@
 {"name":"TwistedCaverns","type":"Actor","sort":3300000,"flags":{},"parent":"XRVDmjCN9f4qED8u","color":"","_id":"BW3d5T7F7X4DNZet"}
 {"name":"Variant & Optional Rules","type":"JournalEntry","sort":4400000,"flags":{},"parent":null,"_id":"BxmoRN7yMxjQsAO0"}
 {"_id":"D4Uh5Q5q2IILmYOs","name":"Summons","type":"Actor","sort":3000000,"flags":{},"parent":"wpYw9WglSiSnzMXg","color":""}
+{"name":"Arch Gates","type":"JournalEntry","sort":5500000,"flags":{},"parent":"v1lfJvWFyTHY0cq5","sorting":"a","color":"","_id":"H1CZav6EiXBEb59S"}
 {"_id":"M2FiNjZlNjRhOTlk","name":"Level 8: Slitherswamp","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":1000000}
 {"_id":"MDU0YWU4MzFmMTE1","name":"Secrets Deck Handouts","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":3900000}
 {"_id":"MGJlY2YzNDk1M2Zm","name":"Level 2: Arcane Chambers","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":400000}
@@ -64,6 +65,7 @@
 {"_id":"lAPs48P8M6YHPIZr","name":"Skullport Notes","type":"JournalEntry","sort":5100000,"flags":{},"parent":"QqiLFziZrLtjZFs7","color":""}
 {"_id":"t5Nw3m680PrwUIFQ","name":"Druid Forms","type":"Actor","sort":3100000,"flags":{},"parent":"wpYw9WglSiSnzMXg","color":""}
 {"name":"Creatures","type":"Actor","sort":3500000,"flags":{},"parent":null,"sorting":"a","_id":"u59FnkUV7mtgMdiy"}
+{"name":"Teleports","type":"JournalEntry","sort":5400000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"v1lfJvWFyTHY0cq5"}
 {"_id":"wpYw9WglSiSnzMXg","name":"Players","type":"Actor","sort":400000,"flags":{},"parent":null,"color":""}
 {"name":"Adventures","type":"JournalEntry","sort":4900000,"flags":{},"parent":null,"_id":"xU2zPB5VIEAHK3ql"}
 {"name":"Completed","type":"JournalEntry","sort":5300000,"flags":{},"parent":"RYCwVyUVqhXIo74O","color":"","_id":"zkgZXwurGMXzeYOv"}
