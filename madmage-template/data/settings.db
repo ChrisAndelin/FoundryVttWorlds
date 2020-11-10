@@ -27,3 +27,7 @@
 {"key":"CautiousGamemastersPack.blindHiddenTokens","value":"true","_id":"vje5uhc8Tww3WAwe"}
 {"_id":"zMfaE99Z2ipwQU2Q","key":"core.permissions","value":"{\"BROADCAST_AUDIO\":[2,3,4],\"BROADCAST_VIDEO\":[2,3,4],\"ACTOR_CREATE\":[3,4],\"DRAWING_CREATE\":[2,3,4],\"ITEM_CREATE\":[3,4],\"FILES_BROWSE\":[2,3,4],\"FILES_UPLOAD\":[3,4],\"JOURNAL_CREATE\":[2,3,4],\"MACRO_SCRIPT\":[1,2,3,4],\"MESSAGE_WHISPER\":[1,2,3,4],\"SETTINGS_MODIFY\":[3,4],\"SHOW_CURSOR\":[1,2,3,4],\"TEMPLATE_CREATE\":[1,2,3,4],\"TOKEN_CREATE\":[3,4],\"TOKEN_CONFIGURE\":[2,3,4],\"WALL_DOORS\":[1,2,3,4],\"SHOW_RULER\":[1,2,3,4]}"}
 {"_id":"HZ5yNvHvYJZjm6fe","key":"quick-insert.filtersSheets","value":"{\"baseFilters\":{\"class\":\"dnd5e.classes\",\"feat\":\"dnd5e.classfeatures\",\"npc.feat\":\"dnd5e.monsterfeatures\",\"spell\":\"dnd5e.spells\",\"weapon\":\"dnd5e.items\",\"equipment\":\"dnd5e.items\",\"consumable\":\"dnd5e.items\",\"backpack\":\"dnd5e.items\",\"tool\":\"dnd5e.items\",\"loot\":\"dnd5e.items\"}}"}
+{"_id":"VQt0nqmhzcGr4I0p","key":"followme.column","value":"\"0\""}
+{"_id":"G9aaIqyCNUW7xLYp","key":"followme.topbottom","value":"\"0\""}
+{"_id":"OfagIaTXcKq6M96q","key":"pings.minMovePermission","value":"\"1\""}
+{"_id":"gmnJQdxhjvNoGsKa","key":"quick-insert.indexDeferredDelay","value":"\"1000\""}

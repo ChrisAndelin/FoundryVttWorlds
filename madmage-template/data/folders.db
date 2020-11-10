@@ -66,3 +66,13 @@
 {"_id":"vSeGv0nRAmUr5kEb","name":"Teleports","type":"JournalEntry","sort":4900000,"flags":{},"parent":"NmNiZGJmMmVkZWFh","color":""}
 {"name":"Players","type":"Actor","sort":2900000,"flags":{},"parent":null,"color":"","_id":"wpYw9WglSiSnzMXg"}
 {"name":"Skullport","type":"Scene","sort":null,"flags":{},"parent":null,"color":"","_id":"y3SRdR8qDnT81ASH"}
+{"$$deleted":true,"_id":"puPbLefrJCg0ofbM"}
+{"_id":"BLDEJq7aQBXyxS0U","name":"Levels","type":"JournalEntry","sort":300000,"flags":{},"parent":null,"sorting":"m","color":""}
+{"_id":"MjllMmZkMGFiNTkx","name":"Skullport","type":"JournalEntry","sort":400000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"ZDVkNGI3NGVkMTk0","name":"Magic Items","type":"JournalEntry","sort":500000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"ZTAwZjhmZTU5ZGU5","name":"Supplemental Material","type":"JournalEntry","sort":600000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"NjU5NDE4YmRkMmQ0","name":"Elder Runes Deck Handouts","type":"JournalEntry","sort":700000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"MDU0YWU4MzFmMTE1","name":"Secrets Deck Handouts","type":"JournalEntry","sort":800000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"NWI4ZGNiMDg1ZDdm","name":"Player Handouts","type":"JournalEntry","sort":900000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"rRXoqZguPRSmVU0W","name":"Teleport","type":"JournalEntry","sort":1000000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"NWI4ZGNiMDg1ZDdm","name":"Player Handouts","type":"JournalEntry","sort":450000,"flags":{},"parent":null,"sorting":"a","color":""}
