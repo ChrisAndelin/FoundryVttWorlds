@@ -31,7 +31,6 @@
 {"_id":"OTQ5NjMyMWEyNDRi","name":"Named NPCs","flags":{},"type":"JournalEntry","color":"","parent":"NWI4ZGNiMDg1ZDdm","sort":3000000}
 {"name":"Items","type":"Item","sort":4700000,"flags":{},"parent":null,"_id":"PZYFxQJoYyeJdzgo"}
 {"name":"Notes","type":"JournalEntry","sort":4800000,"flags":{},"parent":"MGRlODMwZDIwNTc4","color":"","_id":"Snt62hFIVpqYd5kA"}
-{"name":"Creatures","type":"Actor","sort":3000000,"flags":{},"parent":null,"_id":"WvxqnvLSs1TFEpYk"}
 {"_id":"Y2FjMmQ1NTRiMzZl","name":"Creatures & Monsters","flags":{},"type":"JournalEntry","color":"","parent":"NWI4ZGNiMDg1ZDdm","sort":3100000}
 {"_id":"Y2UyZTRiYmIzZmQ1","name":"Rollable Tables","flags":{},"type":"RollTable","color":"","parent":null,"sort":4100000}
 {"_id":"YTM5NjQ4Y2M0YWUx","name":"Level 11: Troglodyte Warrens","type":"JournalEntry","sort":1100000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
@@ -48,7 +47,7 @@
 {"_id":"YzY3ZWM1MTI2OGFl","name":"Named NPCs","flags":{},"type":"Actor","color":"","parent":null,"sort":2700000}
 {"_id":"ZDVkNGI3NGVkMTk0","name":"Magic Items","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":3200000}
 {"_id":"ZGE2NTYyODVhZDVi","name":"START HERE","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":100000}
-{"_id":"ZGQ0ZDJlMTI5Njlm","name":"Creatures & Monsters","flags":{},"type":"Actor","color":"","parent":null,"sort":2800000}
+{"_id":"ZGQ0ZDJlMTI5Njlm","name":"Creatures & Monsters","type":"Actor","sort":2800000,"flags":{},"parent":null,"sorting":"a","color":""}
 {"_id":"ZTAwZjhmZTU5ZGU5","name":"Supplemental Material","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":3500000}
 {"_id":"ZTAxOTk4YTI1ZTYx","name":"Abilities & Feats (NPC)","flags":{},"type":"Item","color":"","parent":null,"sort":100000}
 {"_id":"ZTMxYzJkY2IxNTk3","name":"Level 21: Terminus Level","type":"JournalEntry","sort":1832813,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
