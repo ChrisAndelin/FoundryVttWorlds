@@ -1,0 +1,33 @@
+{
+  "name": "lmop-template",
+  "title": "Lost Mines of Phandelver (Template)",
+  "description": "<p>LMOP template</p>",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.0.0",
+  "compatibleCoreVersion": "1.0.0",
+  "scripts": [
+    "templates/roll20-templates.js"
+  ],
+  "esmodules": [],
+  "styles": [
+    "templates/roll20-templates.css"
+  ],
+  "packs": [],
+  "languages": [],
+  "authors": [],
+  "keywords": [],
+  "socket": false,
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "",
+  "readme": "",
+  "bugs": "",
+  "changelog": "",
+  "id": "lmop-template",
+  "system": "dnd5e",
+  "coreVersion": "0.7.7",
+  "systemVersion": 0.99,
+  "unavailable": false,
+  "availability": 1
+}
