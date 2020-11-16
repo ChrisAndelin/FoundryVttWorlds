@@ -30,6 +30,7 @@
 {"name":"Scene Notes","type":"JournalEntry","sort":4100000,"flags":{},"parent":null,"_id":"PcxysbWCxMCHKEgn"}
 {"name":"Player Notes","type":"JournalEntry","sort":4300000,"flags":{},"parent":null,"color":"","_id":"QqiLFziZrLtjZFs7"}
 {"name":"Quests","type":"JournalEntry","sort":4200000,"flags":{},"parent":null,"color":"","_id":"RYCwVyUVqhXIo74O"}
+{"name":"Lost Level","type":"Actor","sort":3600000,"flags":{},"parent":"XRVDmjCN9f4qED8u","sorting":"a","color":"","_id":"SAw1MbxYF9yLlNf8"}
 {"_id":"UCZTjJY2r3icHyIz","name":"DragonHeistCreatures","type":"Actor","sort":300000,"flags":{},"parent":null,"color":""}
 {"name":"Loot","type":"Actor","sort":3200000,"flags":{},"parent":null,"color":"","_id":"XRVDmjCN9f4qED8u"}
 {"_id":"Y2FjMmQ1NTRiMzZl","name":"Creatures & Monsters","flags":{},"type":"JournalEntry","color":"","parent":"NWI4ZGNiMDg1ZDdm","sort":3100000}
