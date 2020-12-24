@@ -5,7 +5,7 @@
 {"_id":"JXGilzFIgGJv3Yjv","key":"pings.minMovePermission","value":"\"1\""}
 {"key":"teleport.hidedepartingtokens","value":"true","_id":"KoBOTLvt8rqVyy5b"}
 {"key":"combatready.timemax","value":"10","_id":"LuGJimdjcO1ut8pi"}
-{"_id":"OGJhNjJjMzUzNGMw","key":"dnd5e.systemMigrationVersion","value":"0.99"}
+{"_id":"OGJhNjJjMzUzNGMw","key":"dnd5e.systemMigrationVersion","value":"\"1.2.0\""}
 {"_id":"OTRjOTE1ZmRhMmE3","key":"permission_viewer.migrated","value":"\"1\""}
 {"key":"core.combatTrackerConfig","value":"{\"resource\":\"attributes.ac.value\",\"skipDefeated\":true}","_id":"OwbQPxaYMXmBXhf9"}
 {"key":"foundry-hot-seat-observer.toggleGMSelect","value":"true","_id":"OzU9azD16dKQu0yx"}
@@ -23,6 +23,8 @@
 {"key":"combat-utility-belt.enableConcentrator","value":"true","_id":"ltxMY9GyCmEZ52ZK"}
 {"_id":"mNzylSAXL8gsTiOW","key":"combatready.timeractive","value":"false"}
 {"_id":"mRdZMu0uiv2SDXtz","key":"quick-insert.filtersSheets","value":"{\"baseFilters\":{\"class\":\"dnd5e.classes\",\"feat\":\"dnd5e.classfeatures\",\"npc.feat\":\"dnd5e.monsterfeatures\",\"spell\":\"dnd5e.spells\",\"weapon\":\"dnd5e.items\",\"equipment\":\"dnd5e.items\",\"consumable\":\"dnd5e.items\",\"backpack\":\"dnd5e.items\",\"tool\":\"dnd5e.items\",\"loot\":\"dnd5e.items\"}}"}
+{"key":"combat-utility-belt.conditionsSuppressPreventativeSaveReminder","value":"true","_id":"qj5mnBBDYxLgtEvR"}
 {"_id":"rGC4WWzalJdCeKIi","key":"combat-utility-belt.enableEnhancedConditions","value":"true"}
+{"key":"combat-utility-belt.storedTriggers","value":"[{\"id\":\"rrcrdz3ffcjdhlrd\",\"category\":\"attributes\",\"attribute\":\"hp\",\"property1\":\"value\",\"operator\":\"lteq\",\"value\":\"0\",\"property2\":\"\",\"pcOnly\":false,\"npcOnly\":true,\"notZero\":false,\"text\":\"attributes.hp.value <= 0 (NPCs Only)\"}]","_id":"u87Lb5SonwEOoYmk"}
 {"key":"combat-utility-belt.enableSelect","value":"true","_id":"xqWgicrJRCJNK41T"}
 {"key":"combat-utility-belt.conditionMapType","value":"\"default\"","_id":"zbtyplSoNP6AucXM"}

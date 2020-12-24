@@ -31,3 +31,4 @@
 {"_id":"ZWQxNGYyNDBiZTZi","name":"Act 3: The Spider's Web","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":1700000}
 {"_id":"ZWUyNjVmNDAwNzlj","name":"Player Characters (PCs)","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":400000}
 {"name":"Scene Notes","type":"JournalEntry","sort":2000000,"flags":{},"parent":null,"_id":"vnABiAKpjb9bybDZ"}
+{"name":"Creatures","type":"Actor","sort":2100000,"flags":{},"parent":null,"sorting":"a","_id":"ztDxhbRmkvZgQEpQ"}
