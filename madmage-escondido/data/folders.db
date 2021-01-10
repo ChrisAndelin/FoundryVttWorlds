@@ -2,6 +2,7 @@
 {"name":"TwistedCaverns","type":"Actor","sort":3300000,"flags":{},"parent":"XRVDmjCN9f4qED8u","color":"","_id":"BW3d5T7F7X4DNZet"}
 {"name":"Variant & Optional Rules","type":"JournalEntry","sort":4400000,"flags":{},"parent":null,"_id":"BxmoRN7yMxjQsAO0"}
 {"_id":"D4Uh5Q5q2IILmYOs","name":"Summons","type":"Actor","sort":3000000,"flags":{},"parent":"wpYw9WglSiSnzMXg","color":""}
+{"name":"Maddgoths","type":"Actor","sort":3700000,"flags":{},"parent":"XRVDmjCN9f4qED8u","sorting":"a","color":"","_id":"DBfCfmSGcjNv4tRR"}
 {"name":"Arch Gates","type":"JournalEntry","sort":5500000,"flags":{},"parent":"v1lfJvWFyTHY0cq5","sorting":"a","color":"","_id":"H1CZav6EiXBEb59S"}
 {"_id":"M2FiNjZlNjRhOTlk","name":"Level 8: Slitherswamp","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":1000000}
 {"_id":"MDU0YWU4MzFmMTE1","name":"Secrets Deck Handouts","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":3900000}
