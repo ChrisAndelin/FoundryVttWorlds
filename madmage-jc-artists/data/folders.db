@@ -60,3 +60,6 @@
 {"name":"Helpers","type":"Actor","sort":3000000,"flags":{},"parent":"wpYw9WglSiSnzMXg","color":"","_id":"kgjQtyB2QsTxetph"}
 {"name":"Skullport Lower & Middle","type":"JournalEntry","sort":4300000,"flags":{},"parent":"JntbTyCs2dlYTt8d","_id":"kyk4jDdxBgGq8mt1"}
 {"name":"Players","type":"Actor","sort":2900000,"flags":{},"parent":null,"color":"","_id":"wpYw9WglSiSnzMXg"}
+{"name":"Archive","type":"Actor","sort":3300000,"flags":{},"parent":"wpYw9WglSiSnzMXg","sorting":"a","color":"","_id":"odbZTBSfaXvifGx5"}
+{"name":"D&D Beyond Import","type":"Item","sort":30000,"flags":{},"parent":null,"sorting":"a","color":"#6f0006","_id":"iRkaqrdvKafOoCZN"}
+{"name":"Magic Items","type":"Item","sort":4700000,"flags":{},"parent":"iRkaqrdvKafOoCZN","sorting":"a","color":"#98020a","_id":"IjgPU0V27hWvYHVP"}
