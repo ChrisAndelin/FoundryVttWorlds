@@ -1,4 +1,5 @@
 {"_id":"4VW5ZU2BKVxZVUdN","name":"Thundertree","type":"Actor","sort":2700000,"flags":{},"parent":"dKuzbyQztndLPaBc","sorting":"a","color":""}
+{"name":"Redbrand Hideout","type":"Actor","sort":3000000,"flags":{},"parent":"dKuzbyQztndLPaBc","sorting":"a","color":"","_id":"B6Pe8JGGqehiNHnT"}
 {"_id":"BUeYtiv4j7Fc74pl","name":"Sword Coast","type":"JournalEntry","sort":1400000,"flags":{},"parent":null,"sorting":"a","color":""}
 {"_id":"M2Y2MzY4MDM1MzM4","name":"Abilities & Feats (PC)","flags":{},"type":"Item","color":"","parent":null,"sort":100000}
 {"_id":"M2Y5NjkwNDE4NTVh","name":"All Floor Map Keys","flags":{},"type":"JournalEntry","color":"","parent":"MzJjNGJlZDhiZDJm","sort":100000}
@@ -16,7 +17,7 @@
 {"_id":"ODMyMjRkYmI3NGRj","name":"Decks","flags":{},"type":"RollTable","color":"","parent":null,"sort":2200000}
 {"_id":"OWEwNmY3NTRlZWQz","name":"Loot (PC)","flags":{},"type":"Item","color":"","parent":null,"sort":100000}
 {"_id":"OWVlZmM0YTcwOTgw","name":"Spells (PC)","flags":{},"type":"Item","color":"","parent":null,"sort":100000}
-{"name":"Loot","type":"Actor","sort":2100000,"flags":{},"parent":"ZTdjZmJhOTlmYTYy","sorting":"a","color":"","_id":"OgTqahud9wOwIhvv"}
+{"name":"Wyvern Tor","type":"Actor","sort":3100000,"flags":{},"parent":"dKuzbyQztndLPaBc","sorting":"a","color":"","_id":"OlXlhC4F3zVQRTkV"}
 {"name":"Creatures","type":"Actor","sort":2800000,"flags":{},"parent":null,"sorting":"a","_id":"QZVqJtinhwIrmTBu"}
 {"_id":"Y2UyZTRiYmIzZmQ1","name":"Rollable Tables","flags":{},"type":"RollTable","color":"","parent":null,"sort":2100000}
 {"_id":"YTBjMmI5ZGVhMzNk","name":"Bestiary","type":"Actor","sort":100000,"flags":{},"parent":null,"sorting":"a","color":""}
@@ -34,5 +35,6 @@
 {"_id":"dKuzbyQztndLPaBc","name":"LootNpc","type":"Actor","sort":600000,"flags":{},"parent":null,"sorting":"a","color":""}
 {"_id":"fdjzSagEmHUDW1z9","name":"Cragmaw Castle","type":"Actor","sort":2600000,"flags":{},"parent":"dKuzbyQztndLPaBc","sorting":"a","color":""}
 {"name":"Loot (NPC)","type":"Item","sort":2500000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"n2XukCrMqUxc9HHt"}
+{"name":"Cragmaw Hideout","type":"Actor","sort":2900000,"flags":{},"parent":"dKuzbyQztndLPaBc","sorting":"a","color":"","_id":"pXjSqaNNdDSkOYqm"}
 {"name":"Locations","type":"JournalEntry","sort":2100000,"flags":{},"parent":"MjAyZjQxNDQ1Mjkz","sorting":"a","color":"","_id":"uw1IkAt6OFHFUyZW"}
 {"name":"Items","type":"Item","sort":2600000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"wkYzHVdveFQBQ985"}
