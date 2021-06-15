@@ -1,0 +1,45 @@
+{
+  "name": "dotmm-jc-artists",
+  "title": "DotMM-JC-Artists",
+  "description": "<p>Jam City artists campaign.</p>",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.0.0",
+  "compatibleCoreVersion": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "label": "MyItems",
+      "entity": "Item",
+      "name": "myitems",
+      "path": "packs/myitems.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\dotmm-jc-artists\\packs\\myitems.db",
+      "private": false
+    },
+    {
+      "label": "MyActors",
+      "entity": "Actor",
+      "name": "myactors",
+      "path": "packs/myactors.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\dotmm-jc-artists\\packs\\myactors.db",
+      "private": false
+    }
+  ],
+  "system": "dnd5e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "background": "https://s3.amazonaws.com/files.d20.io/images/67885045/NQP3Pnoc5M0puYsv2N18aQ/max.jpg?1543356323964",
+  "coreVersion": "0.8.6",
+  "nextSession": "1970-01-01T00:00:00.000Z",
+  "resetKeys": false,
+  "safeMode": false
+}
