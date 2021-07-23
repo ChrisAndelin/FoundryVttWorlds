@@ -1,6 +1,7 @@
 {"_id":"4VW5ZU2BKVxZVUdN","name":"Thundertree","type":"Actor","sort":2700000,"flags":{},"parent":"dKuzbyQztndLPaBc","sorting":"a","color":""}
 {"name":"Redbrand Hideout","type":"Actor","sort":3000000,"flags":{},"parent":"dKuzbyQztndLPaBc","sorting":"a","color":"","_id":"B6Pe8JGGqehiNHnT"}
 {"_id":"BUeYtiv4j7Fc74pl","name":"Sword Coast","type":"JournalEntry","sort":1400000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"name":"_fql_quests","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"J3Jy3AySmRFM1Via"}
 {"_id":"M2Y2MzY4MDM1MzM4","name":"Abilities & Feats (PC)","flags":{},"type":"Item","color":"","parent":null,"sort":100000}
 {"_id":"M2Y5NjkwNDE4NTVh","name":"All Floor Map Keys","flags":{},"type":"JournalEntry","color":"","parent":"MzJjNGJlZDhiZDJm","sort":100000}
 {"_id":"MGYwODllOWU0M2I1","name":"Act 4: Wave Echo Cave","type":"JournalEntry","sort":1800000,"flags":{},"parent":null,"sorting":"a","color":""}
