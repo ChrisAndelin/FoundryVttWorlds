@@ -31,6 +31,7 @@
 {"_id":"ODMyMjRkYmI3NGRj","name":"Decks","flags":{},"type":"RollTable","color":"","parent":null,"sort":4200000}
 {"_id":"OTMxYWJkNGFlZjAz","name":"Level 15: Obstacle Course","type":"JournalEntry","sort":1500000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
 {"_id":"OTQ5NjMyMWEyNDRi","name":"Named NPCs","flags":{},"type":"JournalEntry","color":"","parent":"NWI4ZGNiMDg1ZDdm","sort":3000000}
+{"name":"Creatures","type":"Actor","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"PPWG9GSDxMRa6xpG"}
 {"name":"Items","type":"Item","sort":4700000,"flags":{},"parent":null,"_id":"PZYFxQJoYyeJdzgo"}
 {"name":"Stavros Helpers","type":"Actor","sort":4100000,"flags":{},"parent":"wpYw9WglSiSnzMXg","sorting":"a","color":"","_id":"R94DTJnKxKEMO8yz"}
 {"name":"Notes","type":"JournalEntry","sort":4800000,"flags":{},"parent":"MGRlODMwZDIwNTc4","color":"","_id":"Snt62hFIVpqYd5kA"}
