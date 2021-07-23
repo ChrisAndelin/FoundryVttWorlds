@@ -44,7 +44,7 @@
     }
   ],
   "socket": false,
-  "manifest": "https://raw.githubusercontent.com/ChrisAndelin/FoundryVttWorlds/develop/lmop-template/world.json",
+  "manifest": "https://github.com/ChrisAndelin/FoundryVttWorlds/blob/develop/lmop-template/world.json",
   "download": "https://github.com/ChrisAndelin/FoundryVttWorlds/archive/refs/heads/develop.zip",
   "url": "https://github.com/ChrisAndelin/FoundryVttWorlds",
   "protected": false,
