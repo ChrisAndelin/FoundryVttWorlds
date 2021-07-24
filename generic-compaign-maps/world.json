@@ -5,20 +5,36 @@
   "authors": [],
   "flags": {},
   "version": "1.0.0",
-  "minimumCoreVersion": "0.0.0",
-  "compatibleCoreVersion": "1.0.0",
+  "minimumCoreVersion": "0.6.0",
+  "compatibleCoreVersion": "0.8.8",
   "scripts": [],
   "esmodules": [],
   "styles": [],
   "languages": [],
   "packs": [],
   "system": "dnd5e",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "name": "dnd5e",
+      "type": "system"
+    },
+    {
+      "name": "plutonium",
+      "manifest": "https://raw.githubusercontent.com/TheGiddyLimit/plutonium-next/master/module.json"
+    },
+    {
+      "name": "forien-quest-log"
+    },
+    {
+      "name": "lootsheetnpc5e"
+    }
+  ],
   "socket": false,
+  "manifest": "https://raw.githubusercontent.com/ChrisAndelin/FoundryVttWorlds/develop/generic-compaign-maps/world.json",
+  "download": "https://github.com/ChrisAndelin/FoundryVttWorlds/raw/develop/!deploy/generic-compaign-maps.zip",
   "protected": false,
   "background": "worlds/generic-compaign-maps/artwork/Marsh.jpg",
   "coreVersion": "0.8.8",
-  "nextSession": "2021-06-06T02:00:00.000Z",
   "resetKeys": false,
   "safeMode": false
 }

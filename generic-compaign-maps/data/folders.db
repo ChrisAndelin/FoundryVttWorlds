@@ -32,3 +32,5 @@
 {"name":"_fql_quests","type":"JournalEntry","sort":800000,"flags":{},"parent":null,"sorting":"a","_id":"wUjRvFWakkCKFFfu"}
 {"_id":"yhks5iqOUtEXYZeD","name":"Fausse Grotto","type":"JournalEntry","sort":400000,"flags":{},"parent":"NFGEPaq8eNeBvdqx","sorting":"m","color":"#756200"}
 {"name":"Creatures","type":"Actor","sort":200000,"flags":{},"parent":null,"sorting":"a","_id":"zhhqk2SI5dZ3uYH0"}
+{"$$deleted":true,"_id":"iWLAxmp5OwetzUYp"}
+{"$$deleted":true,"_id":"wM2lzPOLLxxq5Rl9"}
