@@ -45,7 +45,7 @@
   ],
   "socket": false,
   "manifest": "https://raw.githubusercontent.com/ChrisAndelin/FoundryVttWorlds/develop/lmop-template/world.json",
-  "download": "https://github.com/ChrisAndelin/FoundryVttWorlds/archive/refs/heads/develop.zip",
+  "download": "https://github.com/ChrisAndelin/FoundryVttWorlds/raw/develop/lmop-template/lmop-template.rar",
   "url": "https://github.com/ChrisAndelin/FoundryVttWorlds",
   "protected": false,
   "background": "modules/lmop-shared/scenes/tiles/Landing_Page/tile_0.png",
