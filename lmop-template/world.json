@@ -7,6 +7,7 @@
   "version": "1.0.0",
   "minimumCoreVersion": "0.6.0",
   "compatibleCoreVersion": "0.8.8",
+  "coreVersion": "0.8.8",
   "scripts": [
     "templates/roll20-templates.js"
   ],
