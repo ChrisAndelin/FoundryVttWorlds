@@ -2,12 +2,15 @@
   "name": "madmage-template",
   "title": "Mad Mage Template",
   "description": "<p>This is a template for the first X levels of mad mage.</p>",
+  "authors": [],
+  "flags": {},
   "version": "1.0.0",
   "minimumCoreVersion": "0.0.0",
   "compatibleCoreVersion": "1.0.0",
   "scripts": [],
   "esmodules": [],
   "styles": [],
+  "languages": [],
   "packs": [
     {
       "label": "MyItems",
@@ -16,7 +19,8 @@
       "path": "packs/myitems.db",
       "system": "dnd5e",
       "package": "world",
-      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\madmage-template\\packs\\myitems.db"
+      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\madmage-template\\packs\\myitems.db",
+      "private": false
     },
     {
       "label": "MyActors",
@@ -25,26 +29,16 @@
       "path": "packs/myactors.db",
       "system": "dnd5e",
       "package": "world",
-      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\madmage-template\\packs\\myactors.db"
+      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\madmage-template\\packs\\myactors.db",
+      "private": false
     }
   ],
-  "languages": [],
-  "authors": [],
-  "keywords": [],
-  "socket": false,
-  "url": "",
-  "manifest": "",
-  "download": "",
-  "license": "",
-  "readme": "",
-  "bugs": "",
-  "changelog": "",
-  "id": "madmage-template",
   "system": "dnd5e",
-  "coreVersion": "0.7.9",
-  "systemVersion": "1.2.4",
-  "unavailable": false,
-  "availability": 0,
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
   "background": "https://s3.amazonaws.com/files.d20.io/images/67885045/NQP3Pnoc5M0puYsv2N18aQ/max.jpg?1543356323964",
-  "nextSession": null
+  "coreVersion": "0.8.8",
+  "resetKeys": false,
+  "safeMode": false
 }
