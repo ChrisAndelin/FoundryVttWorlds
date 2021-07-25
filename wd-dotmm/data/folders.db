@@ -1,0 +1,71 @@
+{"_id":"5KDLerdIxtDr6uzc","name":"Archgates","type":"JournalEntry","sort":100000,"flags":{},"parent":"rRXoqZguPRSmVU0W","sorting":"a","color":""}
+{"_id":"8rp5TakyWykV6AQ3","name":"6-LostLevel","type":"Actor","sort":3600000,"flags":{},"parent":"OBhOJSqLcuMDXJrN","color":""}
+{"name":"Tables","type":"RollTable","sort":4300000,"flags":{},"parent":null,"_id":"9rSqcXk9k5oY7pk7"}
+{"_id":"BLDEJq7aQBXyxS0U","name":"Levels","type":"JournalEntry","sort":300000,"flags":{},"parent":null,"sorting":"m","color":""}
+{"_id":"ISlOKD2PKTZNEuq5","name":"4-TwistedCaverns","type":"Actor","sort":3350000,"flags":{},"parent":"OBhOJSqLcuMDXJrN","color":""}
+{"_id":"M2FiNjZlNjRhOTlk","name":"Level 8: Slitherswamp","type":"JournalEntry","sort":800000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"MDU0YWU4MzFmMTE1","name":"Secrets Deck Handouts","type":"JournalEntry","sort":800000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"MGJlY2YzNDk1M2Zm","name":"Level 2: Arcane Chambers","type":"JournalEntry","sort":200000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","sorting":"a","color":""}
+{"_id":"MGMxODBkZDdhNjUx","name":"Level 20: Runestone Caverns","type":"JournalEntry","sort":1831250,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"MGRlODMwZDIwNTc4","name":"Level 5: Wyllowwood","type":"JournalEntry","sort":500000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"MTAxYmVmOTNlNWY5","name":"Level 1: Dungeon Level","type":"JournalEntry","sort":100000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"MjllMmZkMGFiNTkx","name":"Skullport","type":"JournalEntry","sort":400000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"MmU1ZDNiNjI4MjE4","name":"Level 12: Maze Level","type":"JournalEntry","sort":1200000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"name":"Merchant","type":"Actor","sort":3300000,"flags":{},"parent":"OBhOJSqLcuMDXJrN","color":"","_id":"MoBYQkJIrWA6BH9j"}
+{"_id":"MzAyM2ZjMTVhN2Nl","name":"DotMM - Secrets Deck","flags":{},"type":"Item","color":"","parent":"NjExMjdkMTQwNjVh","sort":4500000}
+{"_id":"MzEwZWQwN2I5NTYw","name":"Potions","flags":{},"type":"JournalEntry","color":"","parent":"ZDVkNGI3NGVkMTk0","sort":3300000}
+{"_id":"NDNkZGIzOWM4Zjdi","name":"Level 19: Caverns of Ooze","type":"JournalEntry","sort":1825000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"NDY4NGVmMWRkN2Vi","name":"Weapons (NPC)","flags":{},"type":"Item","color":"","parent":null,"sort":100000}
+{"_id":"NDg2ZWUzNmEyOWYx","name":"Level 22: Shadowdusk Hold","type":"JournalEntry","sort":1833204,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"NWI4ZGNiMDg1ZDdm","name":"Player Handouts","type":"JournalEntry","sort":450000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"NWY1YmQ0ZDE4MWEy","name":"Level 3: Sargauth Level","type":"JournalEntry","sort":300000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"NjExMjdkMTQwNjVh","name":"Decks","flags":{},"type":"Item","color":"","parent":null,"sort":4300000}
+{"_id":"NjU5NDE4YmRkMmQ0","name":"Elder Runes Deck Handouts","type":"JournalEntry","sort":700000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"NmNiZGJmMmVkZWFh","name":"Level 6: Lost Level","type":"JournalEntry","sort":600000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"NzI3YTgwOGU5MTM4","name":"Undermountain Overview","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":200000}
+{"_id":"OBhOJSqLcuMDXJrN","name":"LootNpcs","type":"Actor","sort":3100000,"flags":{},"parent":null,"color":""}
+{"_id":"ODAwNDU4MjE1ODdh","name":"Roll20 Information","flags":{},"type":"JournalEntry","color":"","parent":"ZGE2NTYyODVhZDVi","sort":100000}
+{"_id":"ODMyMjRkYmI3NGRj","name":"Decks","flags":{},"type":"RollTable","color":"","parent":null,"sort":4200000}
+{"_id":"OTMxYWJkNGFlZjAz","name":"Level 15: Obstacle Course","type":"JournalEntry","sort":1500000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"OTQ5NjMyMWEyNDRi","name":"Named NPCs","flags":{},"type":"JournalEntry","color":"","parent":"NWI4ZGNiMDg1ZDdm","sort":3000000}
+{"name":"Items","type":"Item","sort":4700000,"flags":{},"parent":null,"_id":"PZYFxQJoYyeJdzgo"}
+{"name":"Creatures(dotmm)","type":"Actor","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"PvRGnI8or3fkMOlP"}
+{"name":"Notes","type":"JournalEntry","sort":4800000,"flags":{},"parent":"MGRlODMwZDIwNTc4","color":"","_id":"Snt62hFIVpqYd5kA"}
+{"name":"8-Slitherswamp","type":"Actor","sort":3800000,"flags":{},"parent":"OBhOJSqLcuMDXJrN","sorting":"a","color":"","_id":"WY2LTckl3mQH6N9C"}
+{"_id":"Y2FjMmQ1NTRiMzZl","name":"Creatures & Monsters","flags":{},"type":"JournalEntry","color":"","parent":"NWI4ZGNiMDg1ZDdm","sort":3100000}
+{"_id":"Y2UyZTRiYmIzZmQ1","name":"Rollable Tables","flags":{},"type":"RollTable","color":"","parent":null,"sort":4100000}
+{"_id":"YTM5NjQ4Y2M0YWUx","name":"Level 11: Troglodyte Warrens","type":"JournalEntry","sort":1100000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"YTViNGNlZWI1YTA0","name":"Madness","flags":{},"type":"JournalEntry","color":"","parent":"ZTAwZjhmZTU5ZGU5","sort":3700000}
+{"_id":"YTg4Njg3YWYyODU2","name":"Level 9: Dweomercore","type":"JournalEntry","sort":900000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"YWFmNWNmZWU2ZTk3","name":"Playing Cards","flags":{},"type":"Item","color":"","parent":"NjExMjdkMTQwNjVh","sort":4600000}
+{"_id":"YWMzOWYyYzI3ZTNm","name":"Level 10: Muiral's Gauntlet","type":"JournalEntry","sort":1000000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"YWYzYWU0MDJjMzBj","name":"Level 4: Twisted Caverns","type":"JournalEntry","sort":400000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"YjA4YWFlM2FmZTQ4","name":"Dungeon Hazards","flags":{},"type":"JournalEntry","color":"","parent":"ZTAwZjhmZTU5ZGU5","sort":3600000}
+{"_id":"YjU3YzY3MzQwNzk5","name":"D&D 5e Items (SRD)","flags":{},"type":"Item","color":"","parent":null,"sort":100000}
+{"_id":"YmRjNzA0ZGQ5MzJj","name":"Magic Items","flags":{},"type":"Item","color":"","parent":null,"sort":3200000}
+{"_id":"YzExMDNmZGUyZTRl","name":"Level 16: Crystal Labyrinth","type":"JournalEntry","sort":1600000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"YzViNWE5Mzc0MTQ4","name":"Level 13: Trobriand's Graveyard","type":"JournalEntry","sort":1300000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"YzY3ZWM1MTI2OGFl","name":"Named NPCs","flags":{},"type":"Actor","color":"","parent":null,"sort":2700000}
+{"_id":"ZDVkNGI3NGVkMTk0","name":"Magic Items","type":"JournalEntry","sort":500000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"ZGE2NTYyODVhZDVi","name":"START HERE","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":100000}
+{"_id":"ZGQ0ZDJlMTI5Njlm","name":"Creatures & Monsters","type":"Actor","parent":null,"sorting":"a","sort":2800000,"color":null,"flags":{}}
+{"_id":"ZTAwZjhmZTU5ZGU5","name":"Supplemental Material","type":"JournalEntry","sort":600000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"ZTAxOTk4YTI1ZTYx","name":"Abilities & Feats (NPC)","flags":{},"type":"Item","color":"","parent":null,"sort":100000}
+{"_id":"ZTMxYzJkY2IxNTk3","name":"Level 21: Terminus Level","type":"JournalEntry","sort":1832813,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"ZTkwMTExY2JlZGFk","name":"Level 23: Mad Wizard's Lair","type":"JournalEntry","sort":1833594,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"ZWE1ODJjMzhjZjAz","name":"Level 7: Maddgoth's Castle","type":"JournalEntry","sort":700000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"ZWRjOGExMjRmOGJk","name":"Level 17: Seadeeps","type":"JournalEntry","sort":1700000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"ZWYyY2E1ZWE2NDdk","name":"Level 14: Arcturiadoom","type":"JournalEntry","sort":1400000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"name":"7-MaddgothCastle","type":"Actor","sort":3700000,"flags":{},"parent":"OBhOJSqLcuMDXJrN","sorting":"a","color":"","_id":"ZXOSnUXMWXsC6f1l"}
+{"_id":"ZjM3N2M4M2M1MjNh","name":"Level 18: Vanrakdoom","type":"JournalEntry","sort":1800000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
+{"_id":"ZjhmY2MzYzY0MGE3","name":"Spells (NPC)","flags":{},"type":"Item","color":"","parent":null,"sort":100000}
+{"_id":"ZmMzNThhZTBkMjZm","name":"DotMM - Rune Deck","flags":{},"type":"Item","color":"","parent":"NjExMjdkMTQwNjVh","sort":4400000}
+{"_id":"ZmNjZDA4MjI4NzU4","name":"D&D 5e Spells (SRD)","flags":{},"type":"Item","color":"","parent":null,"sort":100000}
+{"name":"MadmageItems","type":"Item","sort":4800000,"flags":{},"parent":null,"color":"","_id":"f2Ao8zwlytPUUQ6P"}
+{"name":"Creatures","type":"Actor","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"guT3ENMrtrwULfHo"}
+{"name":"_fql_quests","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"nzXLLKYaECpiv6j8"}
+{"name":"5-Wyllowood","type":"Actor","sort":3400000,"flags":{},"parent":"OBhOJSqLcuMDXJrN","color":"","_id":"oRsMUdkHdJX141iv"}
+{"_id":"rRXoqZguPRSmVU0W","name":"Teleport","type":"JournalEntry","sort":1000000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"vSeGv0nRAmUr5kEb","name":"Teleports","type":"JournalEntry","sort":4900000,"flags":{},"parent":"NmNiZGJmMmVkZWFh","color":""}
+{"name":"Players","type":"Actor","sort":2900000,"flags":{},"parent":null,"color":"","_id":"wpYw9WglSiSnzMXg"}
+{"name":"Skullport","type":"Scene","sort":null,"flags":{},"parent":null,"color":"","_id":"y3SRdR8qDnT81ASH"}
