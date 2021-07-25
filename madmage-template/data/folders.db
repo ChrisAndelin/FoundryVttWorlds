@@ -29,6 +29,7 @@
 {"_id":"OTMxYWJkNGFlZjAz","name":"Level 15: Obstacle Course","type":"JournalEntry","sort":1500000,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
 {"_id":"OTQ5NjMyMWEyNDRi","name":"Named NPCs","flags":{},"type":"JournalEntry","color":"","parent":"NWI4ZGNiMDg1ZDdm","sort":3000000}
 {"name":"Items","type":"Item","sort":4700000,"flags":{},"parent":null,"_id":"PZYFxQJoYyeJdzgo"}
+{"name":"Creatures(dotmm)","type":"Actor","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"PvRGnI8or3fkMOlP"}
 {"name":"Notes","type":"JournalEntry","sort":4800000,"flags":{},"parent":"MGRlODMwZDIwNTc4","color":"","_id":"Snt62hFIVpqYd5kA"}
 {"name":"8-Slitherswamp","type":"Actor","sort":3800000,"flags":{},"parent":"OBhOJSqLcuMDXJrN","sorting":"a","color":"","_id":"WY2LTckl3mQH6N9C"}
 {"_id":"Y2FjMmQ1NTRiMzZl","name":"Creatures & Monsters","flags":{},"type":"JournalEntry","color":"","parent":"NWI4ZGNiMDg1ZDdm","sort":3100000}
@@ -47,7 +48,7 @@
 {"_id":"YzY3ZWM1MTI2OGFl","name":"Named NPCs","flags":{},"type":"Actor","color":"","parent":null,"sort":2700000}
 {"_id":"ZDVkNGI3NGVkMTk0","name":"Magic Items","type":"JournalEntry","sort":500000,"flags":{},"parent":null,"sorting":"a","color":""}
 {"_id":"ZGE2NTYyODVhZDVi","name":"START HERE","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":100000}
-{"_id":"ZGQ0ZDJlMTI5Njlm","name":"Creatures & Monsters","type":"Actor","sort":2800000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"ZGQ0ZDJlMTI5Njlm","name":"Creatures & Monsters","type":"Actor","parent":null,"sorting":"a","sort":2800000,"color":null,"flags":{}}
 {"_id":"ZTAwZjhmZTU5ZGU5","name":"Supplemental Material","type":"JournalEntry","sort":600000,"flags":{},"parent":null,"sorting":"a","color":""}
 {"_id":"ZTAxOTk4YTI1ZTYx","name":"Abilities & Feats (NPC)","flags":{},"type":"Item","color":"","parent":null,"sort":100000}
 {"_id":"ZTMxYzJkY2IxNTk3","name":"Level 21: Terminus Level","type":"JournalEntry","sort":1832813,"flags":{},"parent":"BLDEJq7aQBXyxS0U","color":""}
@@ -61,17 +62,10 @@
 {"_id":"ZmMzNThhZTBkMjZm","name":"DotMM - Rune Deck","flags":{},"type":"Item","color":"","parent":"NjExMjdkMTQwNjVh","sort":4400000}
 {"_id":"ZmNjZDA4MjI4NzU4","name":"D&D 5e Spells (SRD)","flags":{},"type":"Item","color":"","parent":null,"sort":100000}
 {"name":"MadmageItems","type":"Item","sort":4800000,"flags":{},"parent":null,"color":"","_id":"f2Ao8zwlytPUUQ6P"}
+{"name":"Creatures","type":"Actor","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"guT3ENMrtrwULfHo"}
+{"name":"_fql_quests","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"nzXLLKYaECpiv6j8"}
 {"name":"5-Wyllowood","type":"Actor","sort":3400000,"flags":{},"parent":"OBhOJSqLcuMDXJrN","color":"","_id":"oRsMUdkHdJX141iv"}
 {"_id":"rRXoqZguPRSmVU0W","name":"Teleport","type":"JournalEntry","sort":1000000,"flags":{},"parent":null,"sorting":"a","color":""}
 {"_id":"vSeGv0nRAmUr5kEb","name":"Teleports","type":"JournalEntry","sort":4900000,"flags":{},"parent":"NmNiZGJmMmVkZWFh","color":""}
 {"name":"Players","type":"Actor","sort":2900000,"flags":{},"parent":null,"color":"","_id":"wpYw9WglSiSnzMXg"}
 {"name":"Skullport","type":"Scene","sort":null,"flags":{},"parent":null,"color":"","_id":"y3SRdR8qDnT81ASH"}
-{"name":"_fql_quests","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"nzXLLKYaECpiv6j8"}
-{"name":"Creatures","type":"Actor","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"XHMEEDoek92BRghJ"}
-{"_id":"ZGQ0ZDJlMTI5Njlm","name":"WD:DotMM Creatures","type":"Actor","parent":null,"sorting":"a","sort":2800000,"color":"","flags":{}}
-{"_id":"ZGQ0ZDJlMTI5Njlm","name":"Creatures & Monsters","type":"Actor","parent":null,"sorting":"a","sort":2800000,"color":null,"flags":{}}
-{"_id":"XHMEEDoek92BRghJ","name":"dotmm Creatures","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
-{"_id":"XHMEEDoek92BRghJ","name":"Creatures(dotmm)","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{}}
-{"$$deleted":true,"_id":"XHMEEDoek92BRghJ"}
-{"name":"Creatures(dotmm)","type":"Actor","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"PvRGnI8or3fkMOlP"}
-{"name":"Creatures","type":"Actor","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"guT3ENMrtrwULfHo"}
