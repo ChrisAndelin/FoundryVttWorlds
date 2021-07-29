@@ -1,6 +1,6 @@
 {"_id":"0X5uMx0hPRv8k9Us","key":"combat-utility-belt.enableEnhancedConditions","value":"true"}
 {"key":"combat-utility-belt.concentratorOutputToChat","value":"true","_id":"1LBQyO5bdeEiNbtr"}
-{"_id":"2fPDBYVD4BJYkRi7","key":"core.time","value":"150"}
+{"_id":"2fPDBYVD4BJYkRi7","key":"core.time","value":"156"}
 {"_id":"3i5Fa2DpAeYUDrzy","key":"combat-utility-belt.conditionMapType","value":"\"other\""}
 {"key":"combatready.endturndialog","value":"true","_id":"616hohkzIBW63FWr"}
 {"key":"combat-utility-belt.conditionsOutputToChat","value":"true","_id":"82M3sNkmNIo9XULy"}
@@ -12,7 +12,7 @@
 {"key":"combat-utility-belt.notifyDoubleConcentration","value":"\"all\"","_id":"D5LSTtaMknv4OAxe"}
 {"key":"combat-utility-belt.conditionsSuppressPreventativeSaveReminder","value":"true","_id":"EGRuFpYzzd7Emgjx"}
 {"key":"vtta-tokenizer.image-upload-directory","value":"\"[data] modules/chris-character-vault/assets/hodgepodge\"","_id":"EkEioYwhisLKoDyE"}
-{"_id":"FI32hh7lR2RNuFh9","key":"combatready.timeractive","value":"false"}
+{"_id":"FI32hh7lR2RNuFh9","key":"combatready.timeractive","value":"true"}
 {"key":"vtta-tokenizer.default-frame-pc","value":"\"[data] modules/chris-character-vault/assets/tokens/pc_token_bg.png\"","_id":"FNvJVYgUCLPvkFOp"}
 {"_id":"G9aaIqyCNUW7xLYp","key":"followme.topbottom","value":"\"0\""}
 {"_id":"HZ5yNvHvYJZjm6fe","key":"quick-insert.filtersSheets","value":"{\"baseFilters\":{\"class\":\"dnd5e.classes\",\"feat\":\"dnd5e.classfeatures\",\"npc.feat\":\"dnd5e.monsterfeatures\",\"spell\":\"dnd5e.spells\",\"weapon\":\"dnd5e.items\",\"equipment\":\"dnd5e.items\",\"consumable\":\"dnd5e.items\",\"backpack\":\"dnd5e.items\",\"tool\":\"dnd5e.items\",\"loot\":\"dnd5e.items\"}}"}
