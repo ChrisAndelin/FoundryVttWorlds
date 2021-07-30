@@ -37,3 +37,6 @@
 {"name":"Cragmaw Hideout","type":"Actor","sort":2900000,"flags":{},"parent":"dKuzbyQztndLPaBc","sorting":"a","color":"","_id":"pXjSqaNNdDSkOYqm"}
 {"name":"Locations","type":"JournalEntry","sort":2100000,"flags":{},"parent":"MjAyZjQxNDQ1Mjkz","sorting":"a","color":"","_id":"uw1IkAt6OFHFUyZW"}
 {"name":"Items","type":"Item","sort":2600000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"wkYzHVdveFQBQ985"}
+{"name":"Teleport Helpers","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#ffffff","flags":{},"_id":"oFYeXmAOh9mRbhA0"}
+{"_id":"oFYeXmAOh9mRbhA0","name":"Teleport Helpers","type":"JournalEntry","parent":null,"sorting":"a","sort":2100000,"color":"#ffffff","flags":{}}
+{"_id":"oFYeXmAOh9mRbhA0","name":"Teleport Helpers","type":"JournalEntry","parent":null,"sorting":"a","sort":2100000,"color":"#878787","flags":{}}

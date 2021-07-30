@@ -65,9 +65,7 @@
 {"name":"Creatures","type":"Actor","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"guT3ENMrtrwULfHo"}
 {"name":"_fql_quests","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"nzXLLKYaECpiv6j8"}
 {"name":"5-Wyllowood","type":"Actor","sort":3400000,"flags":{},"parent":"OBhOJSqLcuMDXJrN","color":"","_id":"oRsMUdkHdJX141iv"}
+{"name":"Passages","type":"JournalEntry","parent":"MjllMmZkMGFiNTkx","sorting":"a","sort":0,"color":null,"flags":{},"_id":"pzWd34dntVfJ8QPE"}
 {"_id":"rRXoqZguPRSmVU0W","name":"Teleport","type":"JournalEntry","sort":1000000,"flags":{},"parent":null,"sorting":"a","color":""}
-{"_id":"vSeGv0nRAmUr5kEb","name":"Teleports","type":"JournalEntry","sort":4900000,"flags":{},"parent":"NmNiZGJmMmVkZWFh","color":""}
 {"name":"Players","type":"Actor","sort":2900000,"flags":{},"parent":null,"color":"","_id":"wpYw9WglSiSnzMXg"}
 {"name":"Skullport","type":"Scene","sort":null,"flags":{},"parent":null,"color":"","_id":"y3SRdR8qDnT81ASH"}
-{"$$deleted":true,"_id":"vSeGv0nRAmUr5kEb"}
-{"name":"Passages","type":"JournalEntry","parent":"MjllMmZkMGFiNTkx","sorting":"a","sort":0,"color":null,"flags":{},"_id":"pzWd34dntVfJ8QPE"}
