@@ -18,7 +18,6 @@
 {"_id":"OWEwNmY3NTRlZWQz","name":"Loot (PC)","flags":{},"type":"Item","color":"","parent":null,"sort":100000}
 {"_id":"OWVlZmM0YTcwOTgw","name":"Spells (PC)","flags":{},"type":"Item","color":"","parent":null,"sort":100000}
 {"name":"Wyvern Tor","type":"Actor","sort":3100000,"flags":{},"parent":"dKuzbyQztndLPaBc","sorting":"a","color":"","_id":"OlXlhC4F3zVQRTkV"}
-{"name":"Creatures","type":"Actor","sort":2800000,"flags":{},"parent":null,"sorting":"a","_id":"QZVqJtinhwIrmTBu"}
 {"_id":"Y2UyZTRiYmIzZmQ1","name":"Rollable Tables","flags":{},"type":"RollTable","color":"","parent":null,"sort":2100000}
 {"_id":"YTBjMmI5ZGVhMzNk","name":"Bestiary","type":"Actor","sort":100000,"flags":{},"parent":null,"sorting":"a","color":""}
 {"_id":"YTI2Nzk3ZjljNDI5","name":"Quests","flags":{},"type":"JournalEntry","color":"","parent":"NTljMzBjYzM4ZTE5","sort":1000000}
@@ -34,9 +33,7 @@
 {"_id":"dKuzbyQztndLPaBc","name":"LootNpc","type":"Actor","sort":600000,"flags":{},"parent":null,"sorting":"a","color":""}
 {"_id":"fdjzSagEmHUDW1z9","name":"Cragmaw Castle","type":"Actor","sort":2600000,"flags":{},"parent":"dKuzbyQztndLPaBc","sorting":"a","color":""}
 {"name":"Loot (NPC)","type":"Item","sort":2500000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"n2XukCrMqUxc9HHt"}
+{"_id":"oFYeXmAOh9mRbhA0","name":"Teleport Helpers","type":"JournalEntry","parent":null,"sorting":"a","sort":2100000,"color":"#878787","flags":{}}
 {"name":"Cragmaw Hideout","type":"Actor","sort":2900000,"flags":{},"parent":"dKuzbyQztndLPaBc","sorting":"a","color":"","_id":"pXjSqaNNdDSkOYqm"}
 {"name":"Locations","type":"JournalEntry","sort":2100000,"flags":{},"parent":"MjAyZjQxNDQ1Mjkz","sorting":"a","color":"","_id":"uw1IkAt6OFHFUyZW"}
 {"name":"Items","type":"Item","sort":2600000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"wkYzHVdveFQBQ985"}
-{"name":"Teleport Helpers","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#ffffff","flags":{},"_id":"oFYeXmAOh9mRbhA0"}
-{"_id":"oFYeXmAOh9mRbhA0","name":"Teleport Helpers","type":"JournalEntry","parent":null,"sorting":"a","sort":2100000,"color":"#ffffff","flags":{}}
-{"_id":"oFYeXmAOh9mRbhA0","name":"Teleport Helpers","type":"JournalEntry","parent":null,"sorting":"a","sort":2100000,"color":"#878787","flags":{}}
