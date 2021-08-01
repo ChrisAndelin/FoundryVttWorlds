@@ -34,7 +34,38 @@
     }
   ],
   "system": "dnd5e",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "name": "dnd5e",
+      "type": "system"
+    },
+    {
+      "name": "dotmm-shared",
+      "manifest": "https://github.com/ChrisAndelin/dotmm-shared/releases/download/0.0.0/module.json",
+      "type": "module"
+    },
+    {
+      "name": "plutonium",
+      "manifest": "https://raw.githubusercontent.com/TheGiddyLimit/plutonium-next/master/module.json",
+      "type": "module"
+    },
+    {
+      "name": "forien-quest-log",
+      "type": "module"
+    },
+    {
+      "name": "lootsheetnpc5e",
+      "type": "module"
+    },
+    {
+      "name": "magicitems",
+      "type": "module"
+    },
+    {
+      "name": "multilevel-tokens",
+      "type": "module"
+    }
+  ],
   "socket": false,
   "protected": false,
   "background": "https://s3.amazonaws.com/files.d20.io/images/67885045/NQP3Pnoc5M0puYsv2N18aQ/max.jpg?1543356323964",
