@@ -29,5 +29,5 @@
             draft: false
             prerelease: false
             token: ${{secrets.GITHUB_TOKEN}}
-            artifacts: './lmop/module.zip, ./lmop/module.json'
+            artifacts: './lmop/world.zip, ./lmop/world.json'
             tag: lmop_${{ steps.get-version.outputs.version }}
