@@ -13,7 +13,7 @@
 
         - name: Zip Files
           working-directory: ./lmop/
-          run: zip -r ./module.zip ./*
+          run: zip -r ./world.zip ./*
 
         - name: Get Version
           shell: bash
