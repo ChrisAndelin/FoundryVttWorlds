@@ -4,7 +4,9 @@
   "description": "<p>LMOP template</p>",
   "authors": [],
   "flags": {},
-  "version": "1.0.0",
+  "version": "0.0.0",
+  "manifest": "https://github.com/ChrisAndelin/FoundryVttWorlds/releases/download/lmop_0.0.0/module.json",
+  "download": "https://github.com/ChrisAndelin/FoundryVttWorlds/releases/download/lmop_0.0.0/module.zip",
   "minimumCoreVersion": "0.6.0",
   "compatibleCoreVersion": "0.8.8",
   "scripts": [
@@ -50,8 +52,6 @@
     }
   ],
   "socket": false,
-  "manifest": "https://raw.githubusercontent.com/ChrisAndelin/FoundryVttWorlds/develop/lmop/world.json",
-  "download": "https://github.com/ChrisAndelin/FoundryVttWorlds/raw/develop/!deploy/lmop.zip",
   "protected": false,
   "background": "modules/lmop-shared/scenes/tiles/Landing_Page/tile_0.png",
   "coreVersion": "0.8.8",

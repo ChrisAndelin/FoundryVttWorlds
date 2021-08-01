@@ -1,0 +1,33 @@
+  name: Lmop Module Builder
+
+  on:
+    push:
+      branches:
+        - lmop-release
+
+  jobs:
+    build:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+
+        - name: Zip Files
+          working-directory: ./lmop/
+          run: zip -r ./module.zip ./*
+
+        - name: Get Version
+          shell: bash
+          id: get-version
+          run: echo "::set-output name=version::$(node ./lmop/.github/workflows/get-version.js)"
+
+        - name: Create Release
+          id: create-release
+          uses: ncipollo/release-action@v1
+          with:
+            allowUpdates: true
+            name: lmop ${{ steps.get-version.outputs.version }}
+            draft: false
+            prerelease: false
+            token: ${{secrets.GITHUB_TOKEN}}
+            artifacts: './lmop/module.zip, ./lmop/module.json'
+            tag: lmop_${{ steps.get-version.outputs.version }}
