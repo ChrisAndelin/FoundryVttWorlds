@@ -5,8 +5,8 @@
   "authors": [],
   "flags": {},
   "version": "0.0.1",
-  "manifest": "https://github.com/ChrisAndelin/FoundryVttWorlds/releases/download/lmop_0.0.0/world.json",
-  "download": "https://github.com/ChrisAndelin/FoundryVttWorlds/releases/download/lmop_0.0.0/world.zip",
+  "manifest": "https://github.com/ChrisAndelin/FoundryVttWorlds/releases/download/lmop_0.0.1/world.json",
+  "download": "https://github.com/ChrisAndelin/FoundryVttWorlds/releases/download/lmop_0.0.1/world.zip",
   "minimumCoreVersion": "0.6.0",
   "compatibleCoreVersion": "0.8.8",
   "scripts": [
