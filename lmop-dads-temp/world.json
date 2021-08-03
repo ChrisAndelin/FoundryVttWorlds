@@ -1,0 +1,28 @@
+{
+  "name": "lmop-dads",
+  "title": "Lost Mines of Phandelver (Dads)",
+  "description": "<p>LMOP with dads</p>",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.0.0",
+  "compatibleCoreVersion": "1.0.0",
+  "scripts": [
+    "templates/roll20-templates.js"
+  ],
+  "esmodules": [],
+  "styles": [
+    "templates/roll20-templates.css"
+  ],
+  "languages": [],
+  "packs": [],
+  "system": "dnd5e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "background": "modules/lmop-shared/scenes/tiles/Landing_Page/tile_0.png",
+  "coreVersion": "0.8.8",
+  "nextSession": "1970-01-01T00:00:00.000Z",
+  "resetKeys": false,
+  "safeMode": false
+}
