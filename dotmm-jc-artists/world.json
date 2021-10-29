@@ -31,6 +31,105 @@
       "package": "world",
       "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\dotmm-jc-artists\\packs\\myactors.db",
       "private": false
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Spells",
+      "name": "ddb-dotmm-jc-artists-spells",
+      "package": "world",
+      "path": "packs/ddb-dotmm-jc-artists-spells.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\dotmm-jc-artists\\packs\\ddb-dotmm-jc-artists-spells.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Items",
+      "name": "ddb-dotmm-jc-artists-items",
+      "package": "world",
+      "path": "packs/ddb-dotmm-jc-artists-items.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\dotmm-jc-artists\\packs\\ddb-dotmm-jc-artists-items.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Class Features",
+      "name": "ddb-dotmm-jc-artists-class-features",
+      "package": "world",
+      "path": "packs/ddb-dotmm-jc-artists-class-features.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\dotmm-jc-artists\\packs\\ddb-dotmm-jc-artists-class-features.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Classes",
+      "name": "ddb-dotmm-jc-artists-classes",
+      "package": "world",
+      "path": "packs/ddb-dotmm-jc-artists-classes.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\dotmm-jc-artists\\packs\\ddb-dotmm-jc-artists-classes.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Racial Traits",
+      "name": "ddb-dotmm-jc-artists-racial-traits",
+      "package": "world",
+      "path": "packs/ddb-dotmm-jc-artists-racial-traits.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\dotmm-jc-artists\\packs\\ddb-dotmm-jc-artists-racial-traits.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Feats",
+      "name": "ddb-dotmm-jc-artists-feats",
+      "package": "world",
+      "path": "packs/ddb-dotmm-jc-artists-feats.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\dotmm-jc-artists\\packs\\ddb-dotmm-jc-artists-feats.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Races",
+      "name": "ddb-dotmm-jc-artists-races",
+      "package": "world",
+      "path": "packs/ddb-dotmm-jc-artists-races.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\dotmm-jc-artists\\packs\\ddb-dotmm-jc-artists-races.db"
+    },
+    {
+      "entity": "Actor",
+      "label": "DDB Monsters",
+      "name": "ddb-dotmm-jc-artists-monsters",
+      "package": "world",
+      "path": "packs/ddb-dotmm-jc-artists-monsters.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\dotmm-jc-artists\\packs\\ddb-dotmm-jc-artists-monsters.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Override",
+      "name": "ddb-dotmm-jc-artists-override",
+      "package": "world",
+      "path": "packs/ddb-dotmm-jc-artists-override.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\dotmm-jc-artists\\packs\\ddb-dotmm-jc-artists-override.db"
+    },
+    {
+      "entity": "RollTable",
+      "label": "DDB Tables",
+      "name": "ddb-dotmm-jc-artists-tables",
+      "package": "world",
+      "path": "packs/ddb-dotmm-jc-artists-tables.db",
+      "system": "dnd5e",
+      "private": false
     }
   ],
   "system": "dnd5e",
@@ -38,8 +137,9 @@
   "socket": false,
   "protected": false,
   "background": "https://s3.amazonaws.com/files.d20.io/images/67885045/NQP3Pnoc5M0puYsv2N18aQ/max.jpg?1543356323964",
-  "coreVersion": "0.8.8",
+  "coreVersion": "0.8.9",
   "nextSession": "1970-01-01T00:00:00.000Z",
   "resetKeys": false,
-  "safeMode": false
+  "safeMode": false,
+  "systemVersion": "1.5.2"
 }

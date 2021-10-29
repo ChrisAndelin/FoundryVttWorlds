@@ -32,9 +32,7 @@
 {"_id":"ZWUyNjVmNDAwNzlj","name":"Player Characters (PCs)","type":"JournalEntry","sort":1100000,"flags":{},"parent":null,"sorting":"a","color":""}
 {"_id":"dKuzbyQztndLPaBc","name":"LootNpc","type":"Actor","sort":600000,"flags":{},"parent":null,"sorting":"a","color":""}
 {"_id":"fdjzSagEmHUDW1z9","name":"Cragmaw Castle","type":"Actor","sort":2600000,"flags":{},"parent":"dKuzbyQztndLPaBc","sorting":"a","color":""}
-{"name":"Loot (NPC)","type":"Item","sort":2500000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"n2XukCrMqUxc9HHt"}
 {"_id":"oFYeXmAOh9mRbhA0","name":"Teleport Helpers","type":"JournalEntry","parent":null,"sorting":"a","sort":2100000,"color":"#878787","flags":{}}
 {"name":"Cragmaw Hideout","type":"Actor","sort":2900000,"flags":{},"parent":"dKuzbyQztndLPaBc","sorting":"a","color":"","_id":"pXjSqaNNdDSkOYqm"}
 {"name":"Locations","type":"JournalEntry","sort":2100000,"flags":{},"parent":"MjAyZjQxNDQ1Mjkz","sorting":"a","color":"","_id":"uw1IkAt6OFHFUyZW"}
 {"name":"Items","type":"Item","sort":2600000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"wkYzHVdveFQBQ985"}
-{"$$deleted":true,"_id":"n2XukCrMqUxc9HHt"}

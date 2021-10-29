@@ -1,5 +1,9 @@
 {"name":"Creatures","type":"Actor","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"1zDNuJBPO73MeE5a"}
 {"name":"Misc","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"6SZW1Rp9MgdHYJBV"}
+{"name":"Willow","type":"Actor","parent":"sBAI8cfYByiU6t44","sorting":"a","sort":0,"color":null,"flags":{},"_id":"RhDqMCjYLr6zXkJj"}
+{"name":"Calinor","type":"Actor","parent":"sBAI8cfYByiU6t44","sorting":"a","sort":0,"color":null,"flags":{},"_id":"W3hr6vzngCERCUOZ"}
+{"name":"Darthie","type":"Actor","parent":"sBAI8cfYByiU6t44","sorting":"a","sort":0,"color":null,"flags":{},"_id":"aHndt2hulxrp5jUm"}
 {"name":"_fql_quests","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"fS04VsW2P1bf15u8"}
 {"name":"Players","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"sBAI8cfYByiU6t44"}
+{"_id":"tAbvqi9CDHxfQTiI","name":"Reyni","type":"Actor","parent":"sBAI8cfYByiU6t44","sorting":"a","sort":0,"color":"","flags":{}}
 {"name":"Forest","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"#129900","flags":{},"_id":"wvmDrpzTiDnLs76d"}

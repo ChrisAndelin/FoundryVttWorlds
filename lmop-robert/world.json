@@ -1,0 +1,61 @@
+{
+  "name": "lmop-robert",
+  "title": "Lost Mines of Phandelver (Isekai)",
+  "description": "<p>After a long week, there is something great about having the chance to play Dungeons and Dragons with friends. Sadly, the group had struggled to get together lately with various personal challenges getting in the way. After the current DM asked for a break, Robert offered to step in promising something new.</p>\n<p>Sadly, his friends had no idea what dark places and deals Robert had made lately, and they had no idea that they would be paying the price...</p>",
+  "authors": [],
+  "flags": {},
+  "version": "0.0.2",
+  "minimumCoreVersion": "0.6.0",
+  "compatibleCoreVersion": "0.8.8",
+  "scripts": [
+    "templates/roll20-templates.js"
+  ],
+  "esmodules": [],
+  "styles": [
+    "templates/roll20-templates.css"
+  ],
+  "languages": [],
+  "packs": [],
+  "system": "dnd5e",
+  "dependencies": [
+    {
+      "name": "dnd5e",
+      "type": "system"
+    },
+    {
+      "name": "lmop-shared",
+      "manifest": "https://github.com/ChrisAndelin/lmop-shared/releases/download/0.0.2/module.json",
+      "type": "module"
+    },
+    {
+      "name": "plutonium",
+      "manifest": "https://raw.githubusercontent.com/TheGiddyLimit/plutonium-next/master/module.json",
+      "type": "module"
+    },
+    {
+      "name": "forien-quest-log",
+      "type": "module"
+    },
+    {
+      "name": "lootsheetnpc5e",
+      "type": "module"
+    },
+    {
+      "name": "magicitems",
+      "type": "module"
+    },
+    {
+      "name": "multilevel-tokens",
+      "type": "module"
+    }
+  ],
+  "socket": false,
+  "manifest": "https://github.com/ChrisAndelin/FoundryVttWorlds/releases/download/lmop_0.0.2/world.json",
+  "download": "https://github.com/ChrisAndelin/FoundryVttWorlds/releases/download/lmop_0.0.2/world.zip",
+  "protected": false,
+  "background": "modules/lmop-shared/scenes/tiles/Landing_Page/tile_0.png",
+  "coreVersion": "0.8.9",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.5.3"
+}

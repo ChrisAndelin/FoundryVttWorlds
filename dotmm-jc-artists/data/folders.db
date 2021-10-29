@@ -65,6 +65,7 @@
 {"_id":"ZjhmY2MzYzY0MGE3","name":"Spells (NPC)","flags":{},"type":"Item","color":"","parent":null,"sort":100000}
 {"_id":"ZmMzNThhZTBkMjZm","name":"DotMM - Rune Deck","flags":{},"type":"Item","color":"","parent":"NjExMjdkMTQwNjVh","sort":4400000}
 {"_id":"ZmNjZDA4MjI4NzU4","name":"D&D 5e Spells (SRD)","flags":{},"type":"Item","color":"","parent":null,"sort":100000}
+{"name":"Sidekicks","type":"Actor","parent":"wpYw9WglSiSnzMXg","sorting":"a","sort":0,"color":null,"flags":{},"_id":"aNns2BGtMwIV3l0x"}
 {"name":"MadmageItems","type":"Item","sort":4800000,"flags":{},"parent":null,"color":"","_id":"f2Ao8zwlytPUUQ6P"}
 {"name":"Vysen Helpers","type":"Actor","sort":4000000,"flags":{},"parent":"wpYw9WglSiSnzMXg","sorting":"a","color":"","_id":"h5jjuNPTmBFTwrDa"}
 {"name":"5-Wyllowood","type":"Actor","sort":3400000,"flags":{},"parent":"OBhOJSqLcuMDXJrN","color":"","_id":"oRsMUdkHdJX141iv"}
