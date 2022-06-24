@@ -20,7 +20,8 @@
       "system": "dnd5e",
       "package": "world",
       "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\dotmm-jc-artists\\packs\\myitems.db",
-      "private": false
+      "private": false,
+      "type": "Item"
     },
     {
       "label": "MyActors",
@@ -30,7 +31,8 @@
       "system": "dnd5e",
       "package": "world",
       "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\dotmm-jc-artists\\packs\\myactors.db",
-      "private": false
+      "private": false,
+      "type": "Actor"
     },
     {
       "entity": "Item",
@@ -40,7 +42,8 @@
       "path": "packs/ddb-dotmm-jc-artists-spells.db",
       "system": "dnd5e",
       "private": false,
-      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\dotmm-jc-artists\\packs\\ddb-dotmm-jc-artists-spells.db"
+      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\dotmm-jc-artists\\packs\\ddb-dotmm-jc-artists-spells.db",
+      "type": "Item"
     },
     {
       "entity": "Item",
@@ -50,7 +53,8 @@
       "path": "packs/ddb-dotmm-jc-artists-items.db",
       "system": "dnd5e",
       "private": false,
-      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\dotmm-jc-artists\\packs\\ddb-dotmm-jc-artists-items.db"
+      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\dotmm-jc-artists\\packs\\ddb-dotmm-jc-artists-items.db",
+      "type": "Item"
     },
     {
       "entity": "Item",
@@ -60,7 +64,8 @@
       "path": "packs/ddb-dotmm-jc-artists-class-features.db",
       "system": "dnd5e",
       "private": false,
-      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\dotmm-jc-artists\\packs\\ddb-dotmm-jc-artists-class-features.db"
+      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\dotmm-jc-artists\\packs\\ddb-dotmm-jc-artists-class-features.db",
+      "type": "Item"
     },
     {
       "entity": "Item",
@@ -70,7 +75,8 @@
       "path": "packs/ddb-dotmm-jc-artists-classes.db",
       "system": "dnd5e",
       "private": false,
-      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\dotmm-jc-artists\\packs\\ddb-dotmm-jc-artists-classes.db"
+      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\dotmm-jc-artists\\packs\\ddb-dotmm-jc-artists-classes.db",
+      "type": "Item"
     },
     {
       "entity": "Item",
@@ -80,7 +86,8 @@
       "path": "packs/ddb-dotmm-jc-artists-racial-traits.db",
       "system": "dnd5e",
       "private": false,
-      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\dotmm-jc-artists\\packs\\ddb-dotmm-jc-artists-racial-traits.db"
+      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\dotmm-jc-artists\\packs\\ddb-dotmm-jc-artists-racial-traits.db",
+      "type": "Item"
     },
     {
       "entity": "Item",
@@ -90,7 +97,8 @@
       "path": "packs/ddb-dotmm-jc-artists-feats.db",
       "system": "dnd5e",
       "private": false,
-      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\dotmm-jc-artists\\packs\\ddb-dotmm-jc-artists-feats.db"
+      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\dotmm-jc-artists\\packs\\ddb-dotmm-jc-artists-feats.db",
+      "type": "Item"
     },
     {
       "entity": "Item",
@@ -100,7 +108,8 @@
       "path": "packs/ddb-dotmm-jc-artists-races.db",
       "system": "dnd5e",
       "private": false,
-      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\dotmm-jc-artists\\packs\\ddb-dotmm-jc-artists-races.db"
+      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\dotmm-jc-artists\\packs\\ddb-dotmm-jc-artists-races.db",
+      "type": "Item"
     },
     {
       "entity": "Actor",
@@ -110,7 +119,8 @@
       "path": "packs/ddb-dotmm-jc-artists-monsters.db",
       "system": "dnd5e",
       "private": false,
-      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\dotmm-jc-artists\\packs\\ddb-dotmm-jc-artists-monsters.db"
+      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\dotmm-jc-artists\\packs\\ddb-dotmm-jc-artists-monsters.db",
+      "type": "Actor"
     },
     {
       "entity": "Item",
@@ -120,7 +130,8 @@
       "path": "packs/ddb-dotmm-jc-artists-override.db",
       "system": "dnd5e",
       "private": false,
-      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\dotmm-jc-artists\\packs\\ddb-dotmm-jc-artists-override.db"
+      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\dotmm-jc-artists\\packs\\ddb-dotmm-jc-artists-override.db",
+      "type": "Item"
     },
     {
       "entity": "RollTable",
@@ -129,7 +140,8 @@
       "package": "world",
       "path": "packs/ddb-dotmm-jc-artists-tables.db",
       "system": "dnd5e",
-      "private": false
+      "private": false,
+      "type": "RollTable"
     }
   ],
   "system": "dnd5e",
@@ -137,9 +149,9 @@
   "socket": false,
   "protected": false,
   "background": "https://s3.amazonaws.com/files.d20.io/images/67885045/NQP3Pnoc5M0puYsv2N18aQ/max.jpg?1543356323964",
-  "coreVersion": "0.8.9",
+  "coreVersion": "9.269",
   "nextSession": "1970-01-01T00:00:00.000Z",
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "1.5.5"
+  "systemVersion": "1.6.3"
 }

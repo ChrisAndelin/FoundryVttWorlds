@@ -17,7 +17,8 @@
   "socket": false,
   "protected": false,
   "background": "https://s3.amazonaws.com/files.d20.io/images/67885045/NQP3Pnoc5M0puYsv2N18aQ/max.jpg?1543356323964",
-  "coreVersion": "0.8.7",
+  "coreVersion": "9.269",
   "resetKeys": false,
-  "safeMode": false
+  "safeMode": false,
+  "systemVersion": "1.6.3"
 }

@@ -10,8 +10,8 @@
 {"key":"core.time","value":"0","_id":"UwUfq1T0FdsemrNh"}
 {"key":"vtta-dndbeyond.entity-monster-compendium","value":"\"world.test-tickle-ddb-monsters\"","_id":"UyJ612dKzTseT9cP"}
 {"key":"combat-utility-belt.conditionsSuppressPreventativeSaveReminder","value":"true","_id":"WS6DmBLRvVCYUCSy"}
-{"_id":"X0m9RhNjaEDjMECw","key":"dnd5e.systemMigrationVersion","value":"\"1.3.5\""}
-{"_id":"a0iGeGY7JJOBkt3b","key":"core.moduleConfiguration","value":"{\"combat-utility-belt\":true,\"plutonium\":true}"}
+{"_id":"X0m9RhNjaEDjMECw","key":"dnd5e.systemMigrationVersion","value":"\"1.5.7\""}
+{"_id":"a0iGeGY7JJOBkt3b","key":"core.moduleConfiguration","value":"{}"}
 {"key":"combat-utility-belt.enableSelect","value":"true","_id":"eN9dMygP2kkt0SYh"}
 {"key":"combat-utility-belt.enablePan","value":"true","_id":"jJU2KtiGJwip262d"}
 {"_id":"lapB5Dsq2476bRnV","key":"core.compendiumConfiguration","value":"{\"world.test-tickle-ddb-spells\":{\"private\":false,\"locked\":false},\"world.test-tickle-ddb-items\":{\"private\":false,\"locked\":false},\"world.test-tickle-ddb-features\":{\"private\":false,\"locked\":false},\"world.test-tickle-ddb-monsters\":{\"private\":false,\"locked\":false},\"world.test-tickle-ddb-monster-features\":{\"private\":false,\"locked\":false}}"}

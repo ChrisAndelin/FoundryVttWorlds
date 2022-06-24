@@ -20,7 +20,8 @@
       "path": "packs/test-tickle-ddb-spells.db",
       "system": "dnd5e",
       "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\test-tickle\\packs\\test-tickle-ddb-spells.db",
-      "private": false
+      "private": false,
+      "type": "Item"
     },
     {
       "entity": "Item",
@@ -30,7 +31,8 @@
       "path": "packs/test-tickle-ddb-items.db",
       "system": "dnd5e",
       "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\test-tickle\\packs\\test-tickle-ddb-items.db",
-      "private": false
+      "private": false,
+      "type": "Item"
     },
     {
       "entity": "Item",
@@ -40,7 +42,8 @@
       "path": "packs/test-tickle-ddb-features.db",
       "system": "dnd5e",
       "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\test-tickle\\packs\\test-tickle-ddb-features.db",
-      "private": false
+      "private": false,
+      "type": "Item"
     },
     {
       "entity": "Actor",
@@ -50,7 +53,8 @@
       "path": "packs/test-tickle-ddb-monsters.db",
       "system": "dnd5e",
       "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\test-tickle\\packs\\test-tickle-ddb-monsters.db",
-      "private": false
+      "private": false,
+      "type": "Actor"
     },
     {
       "entity": "Item",
@@ -60,14 +64,16 @@
       "path": "packs/test-tickle-ddb-monster-features.db",
       "system": "dnd5e",
       "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\test-tickle\\packs\\test-tickle-ddb-monster-features.db",
-      "private": false
+      "private": false,
+      "type": "Item"
     }
   ],
   "system": "dnd5e",
   "dependencies": [],
   "socket": false,
   "protected": false,
-  "coreVersion": "0.8.7",
+  "coreVersion": "9.255",
   "resetKeys": false,
-  "safeMode": false
+  "safeMode": false,
+  "systemVersion": "1.5.7"
 }
