@@ -1,7 +1,7 @@
 {
   "name": "wd-dotmm",
   "title": "Mad Mage",
-  "description": "<p>This is a template for the first 9 levels of mad mage.</p>",
+  "description": "<p>This is a template for the first 10 levels of mad mage.</p>",
   "authors": [],
   "flags": {},
   "version": "0.0.0",
@@ -74,6 +74,7 @@
   "protected": false,
   "background": "https://s3.amazonaws.com/files.d20.io/images/67885045/NQP3Pnoc5M0puYsv2N18aQ/max.jpg?1543356323964",
   "coreVersion": "9.269",
+  "nextSession": null,
   "resetKeys": false,
   "safeMode": false,
   "systemVersion": "1.6.3"

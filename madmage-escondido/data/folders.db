@@ -37,6 +37,7 @@
 {"name":"Player Notes","type":"JournalEntry","sort":4300000,"flags":{},"parent":null,"color":"","_id":"QqiLFziZrLtjZFs7"}
 {"name":"Quests","type":"JournalEntry","sort":4200000,"flags":{},"parent":null,"color":"","_id":"RYCwVyUVqhXIo74O"}
 {"name":"Lost Level","type":"Actor","sort":3600000,"flags":{},"parent":"XRVDmjCN9f4qED8u","sorting":"a","color":"","_id":"SAw1MbxYF9yLlNf8"}
+{"name":"DotMM Actors","type":"Actor","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"Sn9ZKWf1rpflSJR1"}
 {"_id":"UCZTjJY2r3icHyIz","name":"DragonHeistCreatures","type":"Actor","sort":300000,"flags":{},"parent":null,"color":""}
 {"name":"Loot","type":"Actor","sort":3200000,"flags":{},"parent":null,"color":"","_id":"XRVDmjCN9f4qED8u"}
 {"name":"Spells","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"XryRTkKPtAVUHNMW"}
