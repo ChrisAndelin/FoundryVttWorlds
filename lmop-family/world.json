@@ -54,8 +54,8 @@
   "download": "https://github.com/ChrisAndelin/FoundryVttWorlds/releases/download/lmop_0.0.1/world.zip",
   "protected": false,
   "background": "modules/lmop-shared/scenes/tiles/Landing_Page/tile_0.png",
-  "coreVersion": "0.8.9",
+  "coreVersion": "9.269",
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "1.5.3"
+  "systemVersion": "1.6.3"
 }

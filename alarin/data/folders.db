@@ -1,0 +1,16 @@
+{"_id":"0hVbtIeBn77qPsIK","name":"Ingredients-Common","type":"Item","parent":"y7PRF1XrsFVAOx1t","sorting":"a","sort":0,"color":"#b3b3b3","flags":{}}
+{"name":"Cooking","type":"Item","parent":"cDPO7u9Lry3WInaB","sorting":"a","sort":0,"color":null,"flags":{},"_id":"4IPCTew45OEXKVhL"}
+{"_id":"BD3pcVEQfeyTRgT3","name":"Ingredients-Rare","type":"Item","parent":"y7PRF1XrsFVAOx1t","sorting":"a","sort":0,"color":"#0070dd","flags":{}}
+{"name":"Recipes","type":"Item","parent":"NXxOAjR8AvRTOfdJ","sorting":"a","sort":0,"color":null,"flags":{},"_id":"CEHfdBFwusHQmSrF"}
+{"name":"Ingredients","type":"Item","parent":"NXxOAjR8AvRTOfdJ","sorting":"a","sort":0,"color":null,"flags":{},"_id":"HajkFjGXkzV2LICB"}
+{"_id":"MZkX8ekHWiCA0NsR","name":"Subskills","type":"Item","parent":null,"sorting":"a","sort":300000,"color":null,"flags":{}}
+{"name":"Monster","type":"Item","parent":"cDPO7u9Lry3WInaB","sorting":"a","sort":0,"color":null,"flags":{},"_id":"NXxOAjR8AvRTOfdJ"}
+{"_id":"NYCT3TOvW6NYQcBC","name":"Manipulated Spells","type":"Item","parent":"MZkX8ekHWiCA0NsR","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"name":"Recipes","type":"Item","parent":"4IPCTew45OEXKVhL","sorting":"a","sort":0,"color":null,"flags":{},"_id":"WyjBniGrW7PL0Ga8"}
+{"_id":"aWrT6h6r2y7i7uwI","name":"Ingredients-Uncommon","type":"Item","parent":"y7PRF1XrsFVAOx1t","sorting":"a","sort":0,"color":"#1eff00","flags":{}}
+{"_id":"cDPO7u9Lry3WInaB","name":"Crafting","type":"Item","parent":null,"sorting":"a","sort":100000,"color":null,"flags":{}}
+{"name":"Recipes","type":"Item","parent":"y7PRF1XrsFVAOx1t","sorting":"a","sort":0,"color":null,"flags":{},"_id":"k15meZIlMZy0RvHu"}
+{"_id":"rw86O8IKN2Cnr8Fx","name":"Official Potions","type":"Item","parent":"y7PRF1XrsFVAOx1t","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"name":"_fql_quests","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"woIxm5XuZMmHACar"}
+{"name":"Ingredients","type":"Item","parent":"4IPCTew45OEXKVhL","sorting":"a","sort":0,"color":null,"flags":{},"_id":"x3St9MOJW7F8it4D"}
+{"name":"Alchemy","type":"Item","parent":"cDPO7u9Lry3WInaB","sorting":"a","sort":0,"color":null,"flags":{},"_id":"y7PRF1XrsFVAOx1t"}
