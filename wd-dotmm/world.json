@@ -1,12 +1,14 @@
 {
-  "name": "wd-dotmm",
+  "id": "wd-dotmm",
   "title": "Mad Mage",
   "description": "<p>This is a template for the first 10 levels of mad mage.</p>",
   "authors": [],
   "flags": {},
   "version": "0.0.0",
-  "minimumCoreVersion": "0.6.0",
-  "compatibleCoreVersion": "0.8.8",
+  "compatibility": {
+    "verified": "0.8.8",
+    "minimum": "0.6.0"
+  },
   "scripts": [],
   "esmodules": [],
   "styles": [],
@@ -36,38 +38,6 @@
     }
   ],
   "system": "dnd5e",
-  "dependencies": [
-    {
-      "name": "dnd5e",
-      "type": "system"
-    },
-    {
-      "name": "dotmm-shared",
-      "manifest": "https://github.com/ChrisAndelin/dotmm-shared/releases/download/0.0.0/module.json",
-      "type": "module"
-    },
-    {
-      "name": "plutonium",
-      "manifest": "https://raw.githubusercontent.com/TheGiddyLimit/plutonium-next/master/module.json",
-      "type": "module"
-    },
-    {
-      "name": "forien-quest-log",
-      "type": "module"
-    },
-    {
-      "name": "lootsheetnpc5e",
-      "type": "module"
-    },
-    {
-      "name": "magicitems",
-      "type": "module"
-    },
-    {
-      "name": "multilevel-tokens",
-      "type": "module"
-    }
-  ],
   "socket": false,
   "manifest": "https://github.com/ChrisAndelin/FoundryVttWorlds/releases/download/wd-dotmm_0.0.0/world.json",
   "download": "https://github.com/ChrisAndelin/FoundryVttWorlds/releases/download/wd-dotmm_0.0.0/world.zip",

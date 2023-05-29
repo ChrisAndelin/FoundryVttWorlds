@@ -5,8 +5,10 @@
   "authors": [],
   "flags": {},
   "version": "1.0.0",
-  "minimumCoreVersion": "0.0.0",
-  "compatibleCoreVersion": "1.0.0",
+  "compatibility": {
+    "verified": "9.269",
+    "minimum": "9"
+  },
   "scripts": [],
   "esmodules": [],
   "styles": [],
@@ -69,7 +71,6 @@
     }
   ],
   "system": "dnd5e",
-  "dependencies": [],
   "socket": false,
   "protected": false,
   "coreVersion": "9.255",

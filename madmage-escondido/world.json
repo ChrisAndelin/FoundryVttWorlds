@@ -6,18 +6,20 @@
   "flags": {},
   "version": "1.0.0",
   "minimumCoreVersion": "0.0.0",
-  "compatibleCoreVersion": "1.0.0",
   "scripts": [],
   "esmodules": [],
   "styles": [],
   "languages": [],
   "packs": [],
   "system": "dnd5e",
-  "dependencies": [],
   "socket": false,
   "protected": false,
   "background": "https://s3.amazonaws.com/files.d20.io/images/67885045/NQP3Pnoc5M0puYsv2N18aQ/max.jpg?1543356323964",
   "coreVersion": "9.269",
+  "compatibility": {
+    "verified": "9.269",
+    "minimum": "9"
+  },
   "resetKeys": false,
   "safeMode": false,
   "systemVersion": "1.6.3"
