@@ -1,80 +1,78 @@
 {
-  "name": "test-tickle",
   "title": "test",
-  "description": "",
-  "authors": [],
-  "flags": {},
   "version": "1.0.0",
   "compatibility": {
-    "verified": "9.269",
-    "minimum": "9"
+    "verified": "11.299",
+    "minimum": "11"
   },
-  "scripts": [],
-  "esmodules": [],
-  "styles": [],
-  "languages": [],
   "packs": [
     {
-      "entity": "Item",
       "label": "My DDB Spells",
       "name": "test-tickle-ddb-spells",
-      "package": "world",
       "path": "packs/test-tickle-ddb-spells.db",
       "system": "dnd5e",
-      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\test-tickle\\packs\\test-tickle-ddb-spells.db",
-      "private": false,
-      "type": "Item"
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
     },
     {
-      "entity": "Item",
       "label": "My DDB Items",
       "name": "test-tickle-ddb-items",
-      "package": "world",
       "path": "packs/test-tickle-ddb-items.db",
       "system": "dnd5e",
-      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\test-tickle\\packs\\test-tickle-ddb-items.db",
-      "private": false,
-      "type": "Item"
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
     },
     {
-      "entity": "Item",
       "label": "My DDB Features",
       "name": "test-tickle-ddb-features",
-      "package": "world",
       "path": "packs/test-tickle-ddb-features.db",
       "system": "dnd5e",
-      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\test-tickle\\packs\\test-tickle-ddb-features.db",
-      "private": false,
-      "type": "Item"
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
     },
     {
-      "entity": "Actor",
       "label": "My DDB Monsters",
       "name": "test-tickle-ddb-monsters",
-      "package": "world",
       "path": "packs/test-tickle-ddb-monsters.db",
       "system": "dnd5e",
-      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\test-tickle\\packs\\test-tickle-ddb-monsters.db",
-      "private": false,
-      "type": "Actor"
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
     },
     {
-      "entity": "Item",
       "label": "My DDB Monster Features",
       "name": "test-tickle-ddb-monster-features",
-      "package": "world",
       "path": "packs/test-tickle-ddb-monster-features.db",
       "system": "dnd5e",
-      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\test-tickle\\packs\\test-tickle-ddb-monster-features.db",
-      "private": false,
-      "type": "Item"
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
     }
   ],
   "system": "dnd5e",
-  "socket": false,
-  "protected": false,
-  "coreVersion": "9.255",
+  "coreVersion": "11.299",
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "1.5.7"
+  "systemVersion": "2.2.1",
+  "id": "test-tickle",
+  "lastPlayed": "Mon May 29 2023 10:55:41 GMT-0700 (Pacific Daylight Time)",
+  "playtime": 24
 }

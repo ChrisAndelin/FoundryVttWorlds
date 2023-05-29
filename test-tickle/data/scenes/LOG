@@ -1,0 +1,5 @@
+2023/05/29-10:55:09.354 37fc Delete type=3 #1
+2023/05/29-10:55:42.570 2d24 Level-0 table #5: started
+2023/05/29-10:55:42.599 2d24 Level-0 table #5: 4356 bytes OK
+2023/05/29-10:55:42.627 2d24 Delete type=0 #3
+2023/05/29-10:55:42.671 2d24 Manual compaction at level-0 from '!scenes!9CGPN7EL3H29RtKc' @ 72057594037927935 : 1 .. '!scenes.tokens.delta!CeexEVdH7LxUvzKp.fY3Eedf6QQeVMGZT.fY3Eedf6QQeVMGZT' @ 0 : 0; will stop at (end)

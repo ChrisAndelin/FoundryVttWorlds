@@ -2,50 +2,45 @@
   "id": "wd-dotmm",
   "title": "Mad Mage",
   "description": "<p>This is a template for the first 10 levels of mad mage.</p>",
-  "authors": [],
-  "flags": {},
   "version": "0.0.0",
   "compatibility": {
-    "verified": "0.8.8",
-    "minimum": "0.6.0"
+    "verified": "11.299",
+    "minimum": "11"
   },
-  "scripts": [],
-  "esmodules": [],
-  "styles": [],
-  "languages": [],
   "packs": [
     {
       "label": "MyItems",
-      "entity": "Item",
       "name": "myitems",
       "path": "packs/myitems.db",
       "system": "dnd5e",
-      "package": "world",
-      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\wd-dotmm\\packs\\myitems.db",
-      "private": false,
-      "type": "Item"
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
     },
     {
       "label": "MyActors",
-      "entity": "Actor",
       "name": "myactors",
       "path": "packs/myactors.db",
       "system": "dnd5e",
-      "package": "world",
-      "absPath": "C:\\Users\\CyberPower\\AppData\\Local\\FoundryVTT\\Data\\worlds\\wd-dotmm\\packs\\myactors.db",
-      "private": false,
-      "type": "Actor"
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
     }
   ],
   "system": "dnd5e",
-  "socket": false,
   "manifest": "https://github.com/ChrisAndelin/FoundryVttWorlds/releases/download/wd-dotmm_0.0.0/world.json",
   "download": "https://github.com/ChrisAndelin/FoundryVttWorlds/releases/download/wd-dotmm_0.0.0/world.zip",
-  "protected": false,
   "background": "https://s3.amazonaws.com/files.d20.io/images/67885045/NQP3Pnoc5M0puYsv2N18aQ/max.jpg?1543356323964",
-  "coreVersion": "9.269",
-  "nextSession": null,
+  "coreVersion": "11.299",
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "1.6.3"
+  "systemVersion": "2.2.1",
+  "lastPlayed": "Mon May 29 2023 10:44:33 GMT-0700 (Pacific Daylight Time)",
+  "playtime": 218
 }

@@ -1,31 +1,26 @@
 {
-  "name": "lmop",
   "title": "Lost Mines of Phandelver",
   "description": "<p>LMOP template</p>",
-  "authors": [],
-  "flags": {},
   "version": "0.0.2",
   "scripts": [
     "templates/roll20-templates.js"
   ],
-  "esmodules": [],
   "styles": [
     "templates/roll20-templates.css"
   ],
-  "languages": [],
-  "packs": [],
   "system": "dnd5e",
-  "socket": false,
   "manifest": "https://github.com/ChrisAndelin/FoundryVttWorlds/releases/download/lmop_0.0.2/world.json",
   "download": "https://github.com/ChrisAndelin/FoundryVttWorlds/releases/download/lmop_0.0.2/world.zip",
-  "protected": false,
   "background": "modules/lmop-shared/scenes/tiles/Landing_Page/tile_0.png",
-  "coreVersion": "9.269",
+  "coreVersion": "11.299",
   "compatibility": {
-    "verified": "9.269",
-    "minimum": "9"
+    "verified": "11.299",
+    "minimum": "11"
   },
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "1.6.3"
+  "systemVersion": "2.2.1",
+  "id": "lmop",
+  "lastPlayed": "Mon May 29 2023 10:40:05 GMT-0700 (Pacific Daylight Time)",
+  "playtime": 115
 }

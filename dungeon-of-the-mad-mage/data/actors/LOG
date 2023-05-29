@@ -1,0 +1,63 @@
+2023/05/29-10:45:00.921 1cc4 Delete type=3 #1
+2023/05/29-10:45:11.203 2d24 Level-0 table #5: started
+2023/05/29-10:45:11.462 2d24 Level-0 table #5: 4065364 bytes OK
+2023/05/29-10:45:11.478 1538 Current memtable full; waiting...
+2023/05/29-10:45:11.497 2d24 Delete type=0 #3
+2023/05/29-10:45:11.653 2d24 Level-0 table #7: started
+2023/05/29-10:45:11.755 37fc Current memtable full; waiting...
+2023/05/29-10:45:11.771 2d24 Level-0 table #7: 2026759 bytes OK
+2023/05/29-10:45:11.821 2d24 Delete type=0 #4
+2023/05/29-10:45:11.936 2d24 Level-0 table #9: started
+2023/05/29-10:45:12.050 2d24 Level-0 table #9: 2035506 bytes OK
+2023/05/29-10:45:12.088 2d24 Delete type=0 #6
+2023/05/29-10:45:22.342 2d24 Compacting 1@0 + 1@1 files
+2023/05/29-10:45:22.497 2d24 Generated table #10@0: 440 keys, 2113989 bytes
+2023/05/29-10:45:22.758 2d24 Generated table #11@0: 2585 keys, 1948790 bytes
+2023/05/29-10:45:22.758 2d24 Compacted 1@0 + 1@1 files => 4062779 bytes
+2023/05/29-10:45:22.780 2d24 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/05/29-10:45:22.780 2d24 Delete type=2 #7
+2023/05/29-10:45:22.781 2d24 Delete type=2 #9
+2023/05/29-10:45:50.335 2d24 Level-0 table #13: started
+2023/05/29-10:45:50.545 2d24 Level-0 table #13: 4673465 bytes OK
+2023/05/29-10:45:50.592 2d24 Delete type=0 #8
+2023/05/29-10:45:53.454 2d24 Level-0 table #15: started
+2023/05/29-10:45:53.627 2d24 Level-0 table #15: 2157307 bytes OK
+2023/05/29-10:45:53.645 2d24 Delete type=0 #12
+2023/05/29-10:45:53.839 2d24 Compacting 2@0 + 2@1 files
+2023/05/29-10:45:53.947 2d24 Generated table #16@0: 327 keys, 2113147 bytes
+2023/05/29-10:45:54.077 2d24 Generated table #17@0: 2733 keys, 2133154 bytes
+2023/05/29-10:45:54.156 2d24 Generated table #18@0: 205 keys, 150493 bytes
+2023/05/29-10:45:54.156 2d24 Compacted 2@0 + 2@1 files => 4396794 bytes
+2023/05/29-10:45:54.170 2d24 compacted to: files[ 0 3 1 0 0 0 0 ]
+2023/05/29-10:45:54.170 2d24 Delete type=2 #10
+2023/05/29-10:45:54.171 2d24 Delete type=2 #11
+2023/05/29-10:45:54.172 2d24 Delete type=2 #13
+2023/05/29-10:45:54.173 2d24 Delete type=2 #15
+2023/05/29-10:49:54.632 2d24 Level-0 table #20: started
+2023/05/29-10:49:54.694 2d24 Level-0 table #20: 631498 bytes OK
+2023/05/29-10:49:54.718 2d24 Delete type=0 #14
+2023/05/29-10:49:54.824 2d24 Manual compaction at level-0 from '!actors!M2RjZGNkZjcyNjI0' @ 72057594037927935 : 1 .. '!actors.items!ZmZjYTU1NTMwZjc1.NmNhN2M5ZGQ0OTE1' @ 0 : 0; will stop at '!actors.items!ZjVlMzg2ZTM4ZmQ3.ZTZhNDViN2IxMTM2' @ 11028 : 1
+2023/05/29-10:49:54.824 2d24 Compacting 1@0 + 3@1 files
+2023/05/29-10:49:55.140 2d24 Generated table #21@0: 326 keys, 2112749 bytes
+2023/05/29-10:49:55.437 2d24 Generated table #22@0: 2726 keys, 2132614 bytes
+2023/05/29-10:49:55.476 2d24 Generated table #23@0: 213 keys, 154253 bytes
+2023/05/29-10:49:55.476 2d24 Compacted 1@0 + 3@1 files => 4399616 bytes
+2023/05/29-10:49:55.495 2d24 compacted to: files[ 0 3 1 0 0 0 0 ]
+2023/05/29-10:49:55.495 2d24 Delete type=2 #16
+2023/05/29-10:49:55.496 2d24 Delete type=2 #17
+2023/05/29-10:49:55.496 2d24 Delete type=2 #18
+2023/05/29-10:49:55.497 2d24 Delete type=2 #20
+2023/05/29-10:49:55.497 2d24 Manual compaction at level-0 from '!actors.items!ZjVlMzg2ZTM4ZmQ3.ZTZhNDViN2IxMTM2' @ 11028 : 1 .. '!actors.items!ZmZjYTU1NTMwZjc1.NmNhN2M5ZGQ0OTE1' @ 0 : 0; will stop at (end)
+2023/05/29-10:49:55.497 2d24 Expanding@1 1+1 (2112749+4065364 bytes) to 3+1 (4399616+4065364 bytes)
+2023/05/29-10:49:55.497 2d24 Manual compaction at level-1 from '!actors!M2RjZGNkZjcyNjI0' @ 72057594037927935 : 1 .. '!actors.items!ZmZjYTU1NTMwZjc1.NmNhN2M5ZGQ0OTE1' @ 0 : 0; will stop at '!actors.items!ZmZjYTU1NTMwZjc1.NmNhN2M5ZGQ0OTE1' @ 9793 : 1
+2023/05/29-10:49:55.497 2d24 Compacting 3@1 + 1@2 files
+2023/05/29-10:49:55.710 2d24 Generated table #24@1: 326 keys, 2112749 bytes
+2023/05/29-10:49:56.266 2d24 Generated table #25@1: 2726 keys, 2132614 bytes
+2023/05/29-10:49:56.385 2d24 Generated table #26@1: 213 keys, 154253 bytes
+2023/05/29-10:49:56.385 2d24 Compacted 3@1 + 1@2 files => 4399616 bytes
+2023/05/29-10:49:56.434 2d24 compacted to: files[ 0 0 3 0 0 0 0 ]
+2023/05/29-10:49:56.435 2d24 Delete type=2 #5
+2023/05/29-10:49:56.436 2d24 Delete type=2 #21
+2023/05/29-10:49:56.436 2d24 Delete type=2 #22
+2023/05/29-10:49:56.437 2d24 Delete type=2 #23
+2023/05/29-10:49:56.652 2d24 Manual compaction at level-1 from '!actors.items!ZmZjYTU1NTMwZjc1.NmNhN2M5ZGQ0OTE1' @ 9793 : 1 .. '!actors.items!ZmZjYTU1NTMwZjc1.NmNhN2M5ZGQ0OTE1' @ 0 : 0; will stop at (end)

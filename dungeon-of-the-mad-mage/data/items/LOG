@@ -1,0 +1,30 @@
+2023/05/29-10:45:03.363 764 Delete type=3 #1
+2023/05/29-10:45:12.992 2d24 Level-0 table #5: started
+2023/05/29-10:45:13.217 2d24 Level-0 table #5: 2408433 bytes OK
+2023/05/29-10:45:13.262 2d24 Delete type=0 #3
+2023/05/29-10:45:54.460 2d24 Level-0 table #7: started
+2023/05/29-10:45:54.736 2d24 Level-0 table #7: 3217147 bytes OK
+2023/05/29-10:45:54.812 2d24 Delete type=0 #4
+2023/05/29-10:49:56.437 2d24 Level-0 table #9: started
+2023/05/29-10:49:56.545 2d24 Level-0 table #9: 94438 bytes OK
+2023/05/29-10:49:56.651 2d24 Delete type=0 #6
+2023/05/29-10:49:56.652 2d24 Manual compaction at level-0 from '!items!M2E0OWU4OTBjMTM5' @ 72057594037927935 : 1 .. '!items!ZmZmYmQzYzc5YWYz' @ 0 : 0; will stop at '!items!ZmYyZmUwZjcyZDNi' @ 7791 : 1
+2023/05/29-10:49:56.676 2d24 Compacting 1@0 + 1@1 files
+2023/05/29-10:49:57.142 2d24 Generated table #10@0: 2607 keys, 2131395 bytes
+2023/05/29-10:49:57.242 2d24 Generated table #11@0: 663 keys, 544925 bytes
+2023/05/29-10:49:57.242 2d24 Compacted 1@0 + 1@1 files => 2676320 bytes
+2023/05/29-10:49:57.285 2d24 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/05/29-10:49:57.285 2d24 Delete type=2 #7
+2023/05/29-10:49:57.286 2d24 Delete type=2 #9
+2023/05/29-10:49:57.286 2d24 Manual compaction at level-0 from '!items!ZmYyZmUwZjcyZDNi' @ 7791 : 1 .. '!items!ZmZmYmQzYzc5YWYz' @ 0 : 0; will stop at (end)
+2023/05/29-10:49:57.286 2d24 Expanding@1 1+1 (2131395+2408433 bytes) to 2+1 (2676320+2408433 bytes)
+2023/05/29-10:49:57.286 2d24 Manual compaction at level-1 from '!items!M2E0OWU4OTBjMTM5' @ 72057594037927935 : 1 .. '!items!ZmZmYmQzYzc5YWYz' @ 0 : 0; will stop at '!items!ZmZmYmQzYzc5YWYz' @ 7726 : 1
+2023/05/29-10:49:57.286 2d24 Compacting 2@1 + 1@2 files
+2023/05/29-10:49:57.519 2d24 Generated table #12@1: 2607 keys, 2131395 bytes
+2023/05/29-10:49:57.704 2d24 Generated table #13@1: 663 keys, 544925 bytes
+2023/05/29-10:49:57.704 2d24 Compacted 2@1 + 1@2 files => 2676320 bytes
+2023/05/29-10:49:57.745 2d24 compacted to: files[ 0 0 2 0 0 0 0 ]
+2023/05/29-10:49:57.745 2d24 Delete type=2 #5
+2023/05/29-10:49:57.746 2d24 Delete type=2 #10
+2023/05/29-10:49:57.746 2d24 Delete type=2 #11
+2023/05/29-10:49:57.746 2d24 Manual compaction at level-1 from '!items!ZmZmYmQzYzc5YWYz' @ 7726 : 1 .. '!items!ZmZmYmQzYzc5YWYz' @ 0 : 0; will stop at (end)

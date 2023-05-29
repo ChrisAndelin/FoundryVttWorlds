@@ -1,24 +1,17 @@
 {
-  "name": "dungeon-of-the-mad-mage",
   "title": "W_DotMM",
   "description": "<p>Imported from thetrove.net imported from Roll20 using R20Converter</p>",
-  "authors": [],
-  "flags": {},
   "version": "1.0.0",
-  "scripts": [],
-  "esmodules": [],
-  "styles": [],
-  "languages": [],
-  "packs": [],
   "system": "dnd5e",
-  "socket": false,
-  "protected": false,
-  "coreVersion": "9.269",
+  "coreVersion": "11.299",
   "compatibility": {
-    "verified": "9.269",
-    "minimum": "9"
+    "verified": "11.299",
+    "minimum": "11"
   },
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "1.6.3"
+  "systemVersion": "2.2.1",
+  "id": "dungeon-of-the-mad-mage",
+  "lastPlayed": "Mon May 29 2023 10:49:51 GMT-0700 (Pacific Daylight Time)",
+  "playtime": 254
 }

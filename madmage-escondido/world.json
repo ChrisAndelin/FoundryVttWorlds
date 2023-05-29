@@ -1,26 +1,18 @@
 {
-  "name": "madmage-escondido",
   "title": "Mad Mage Escondido",
   "description": "<p>This is an actual live world.</p>",
-  "authors": [],
-  "flags": {},
   "version": "1.0.0",
-  "minimumCoreVersion": "0.0.0",
-  "scripts": [],
-  "esmodules": [],
-  "styles": [],
-  "languages": [],
-  "packs": [],
   "system": "dnd5e",
-  "socket": false,
-  "protected": false,
   "background": "https://s3.amazonaws.com/files.d20.io/images/67885045/NQP3Pnoc5M0puYsv2N18aQ/max.jpg?1543356323964",
-  "coreVersion": "9.269",
+  "coreVersion": "11.299",
   "compatibility": {
-    "verified": "9.269",
-    "minimum": "9"
+    "verified": "11.299",
+    "minimum": "11"
   },
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "1.6.3"
+  "systemVersion": "2.2.1",
+  "id": "madmage-escondido",
+  "lastPlayed": "Mon May 29 2023 10:54:38 GMT-0700 (Pacific Daylight Time)",
+  "playtime": 206
 }
