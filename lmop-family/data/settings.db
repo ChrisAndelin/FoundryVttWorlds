@@ -36,7 +36,7 @@
 {"key":"combat-utility-belt.enableSelect","value":"true","_id":"m0dUrDI1feh7uSdW"}
 {"key":"torch.offBrightRadius","value":"2.5","_id":"mu4gezQjvauNUTLV"}
 {"key":"forien-quest-log.availableQuests","value":"true","_id":"ntd2wdQhwZODRPFs"}
-{"key":"core.time","value":"0","_id":"qEPfwu7PBXeOi2ia"}
+{"_id":"qEPfwu7PBXeOi2ia","key":"core.time","value":"6"}
 {"key":"vtta-tokenizer.image-upload-directory","value":"null","_id":"qlx431v9mxQdnlM1"}
 {"key":"forien-quest-log.allowPlayersAccept","value":"true","_id":"reZPuUzmvnLS9SMm"}
 {"key":"combat-utility-belt.enableConcentrator","value":"true","_id":"sUHoW9P8tRKB3uA4"}
@@ -45,4 +45,3 @@
 {"key":"combatready.masteroftime","value":"\"ODY1ZmU3OWIzNzY2\"","_id":"vnuMwxMk6fJY2cs1"}
 {"_id":"w2gzlw1IGTcN6ZEX","key":"monks-common-display.mirror-movement","value":"true"}
 {"_id":"yp9lNGXXQhtQBVfq","key":"combat-utility-belt.conditionMapType","value":"\"other\""}
-{"_id":"qEPfwu7PBXeOi2ia","key":"core.time","value":"6"}
