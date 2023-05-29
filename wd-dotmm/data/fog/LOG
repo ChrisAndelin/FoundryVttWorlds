@@ -1,5 +1,0 @@
-2023/05/29-10:40:19.697 1cc4 Delete type=3 #1
-2023/05/29-10:44:35.713 2d24 Level-0 table #5: started
-2023/05/29-10:44:35.794 2d24 Level-0 table #5: 669991 bytes OK
-2023/05/29-10:44:35.837 2d24 Delete type=0 #3
-2023/05/29-10:44:35.838 2d24 Manual compaction at level-0 from '!fog!2ewEN3KODK6e9arC' @ 72057594037927935 : 1 .. '!fog!z2LObVXyJL9p2BOl' @ 0 : 0; will stop at (end)
