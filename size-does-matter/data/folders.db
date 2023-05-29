@@ -1,4 +1,0 @@
-{"name":"Players","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"GetbIZSjbmFST5SI"}
-{"_id":"H5BAaGggKLgiuEKI","name":"Size Does Matter","type":"JournalEntry","sort":100000,"flags":{},"parent":null,"sorting":"a","color":""}
-{"_id":"aQjFlkxObY8kSBi0","name":"Start Here","type":"JournalEntry","sort":null,"flags":{},"parent":"H5BAaGggKLgiuEKI","sorting":"m","color":""}
-{"_id":"vm2meKjQzJbgFO8E","name":"The Adventure","type":"JournalEntry","sort":null,"flags":{},"parent":"H5BAaGggKLgiuEKI","sorting":"m","color":""}
